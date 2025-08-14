@@ -1,8 +1,8 @@
 export default {
   // 网站标题
-  Title: '韩小韩博客',
+  Title: '煮豌豆博客',
   // 网站地址
-  Site: 'https://www.vvhan.com',
+  Site: 'https://www.zpea.cn',
   // 网站副标题
   Subtitle: '不曾与你分享的时间,我在进步.',
   // 网站描述
@@ -101,7 +101,7 @@ export default {
     },
     // Waline 评论
     Waline: {
-      enable: false,
+      enable: true,
       serverURL: ''
     }
   },
