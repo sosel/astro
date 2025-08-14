@@ -102,7 +102,7 @@ export default {
     // Waline 评论
     Waline: {
       enable: true,
-      serverURL: 'https://waline-m6ted9xg3-sosels-projects.vercel.app/'
+      serverURL: 'https://b.sosel.net'
     }
   },
   // Han Analytics 统计（https://github.com/uxiaohan/HanAnalytics）
