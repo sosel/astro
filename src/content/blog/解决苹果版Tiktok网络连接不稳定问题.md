@@ -1,4 +1,13 @@
-# 解决苹果版Tiktok网络连接不稳定问题
+---
+title: "解決蘋果版Tiktok网络连接问题"
+categories: Code
+tags: ["Ios", "苹果", "TikTok", "tk"]
+id: "resolving tiktok network issuce"
+date: 2025-03-02 18:18:18
+cover: "https://i0.wp.com/uxiaohan.github.io/v2/2025/04/1743737394560.webp"
+recommend: true
+top: true
+---
 
 ## 前言
 
@@ -57,5 +66,6 @@
 现在刷的基本就是日本的内容了
 
 ## 总结
+
 
 只要改一下手机的地区，再改一下APP的语言，就能实现目标内容展示了，这样不需要修改手机上的语言，也不会影响手机的使用。
