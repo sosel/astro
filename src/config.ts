@@ -96,13 +96,13 @@ export default {
   Comment: {
     // Twikoo 评论
     Twikoo: {
-      enable: true,
+      enable: false,
       envId: ''
     },
     // Waline 评论
     Waline: {
-      enable: false,
-      serverURL: ''
+      enable: true,
+      serverURL: 'https://waline-m6ted9xg3-sosels-projects.vercel.app/'
     }
   },
   // Han Analytics 统计（https://github.com/uxiaohan/HanAnalytics）
