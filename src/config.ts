@@ -102,6 +102,7 @@ export default {
     // Waline 评论
     Waline: {
       enable: true,
+      el: '#waline', // 确保这里是你的 Waline 评论区域的 DOM 元素 ID
       serverURL: 'https://waline-m6ted9xg3-sosels-projects.vercel.app/',
       pageview: true,  // 启用浏览量统计
     }
