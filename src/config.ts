@@ -1,6 +1,6 @@
 export default {
   // 网站标题
-  Title: '煮豌豆博客',
+  Title: '1煮豌豆博客',
   // 网站地址
   Site: 'https://www.zpea.cn',
   // 网站副标题
@@ -103,6 +103,7 @@ export default {
     Waline: {
       enable: true,
       serverURL: 'https://b.sosel.net'
+
     }
   },
   // Han Analytics 统计（https://github.com/uxiaohan/HanAnalytics）
