@@ -96,7 +96,7 @@ export default {
   Comment: {
     // Twikoo 评论
     Twikoo: {
-      enable: true,
+      enable: false,
       envId: ''
     },
     // Waline 评论
