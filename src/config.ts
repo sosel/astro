@@ -96,12 +96,12 @@ export default {
   Comment: {
     // Twikoo 评论
     Twikoo: {
-      enable: false,
+      enable: true,
       envId: ''
     },
     // Waline 评论
     Waline: {
-      enable: true,
+      enable: false,
       serverURL: ''
     }
   },
