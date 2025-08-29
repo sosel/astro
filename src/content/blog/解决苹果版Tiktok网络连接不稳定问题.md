@@ -4,7 +4,7 @@ categories: Code
 tags: ["Ios", "苹果", "TikTok", "tk"]
 id: "resolving tiktok network issuce"
 date: 2025-03-02 18:18:18
-cover: "https://i0.wp.com/uxiaohan.github.io/v2/2025/04/1743737394560.webp"
+cover: "https://oss.mailberry.com.cn/i/2025/image-20250703113048876.webp"
 recommend: true
 top: true
 ---
@@ -21,10 +21,30 @@ top: true
 
 因为TikTok虽然检测不到你手机的SIM卡归属地，但还是会检测你手机使用所在地的。
 
-<ProtectedEncrypted
-  src="/protected/tiktok-ios-p3.enc.json"
-  placeholder="输入密码查看隐藏内容"
-/>
+<!-- 受保护段落（前端加密解密，占位块） -->
+<div class="pe-block wxshow-main" data-protected-src="/protected/tiktok-ios-p3.enc.json">
+  <form class="pe-form wxshow" method="post" autocomplete="off">
+    <div class="wxshow-pwd-plane">
+      <p>🔒 此处内容需要输入密码才能查看</p>
+<input type="text" name="wxpwd" value="" class="pwd-show-input" placeholder="请输入密码" required />
+
+<button type="submit" class="pwd-show-btn">提交</button>
+<div class="wxshow-pwd-note">
+        <span style="color: red">由于内容特殊性，请见谅！</span><br />
+        微信扫码关注公众号，回复：<br />
+        <span style="color: red">访问密码</span>，即可获取密码！
+      </div>
+    </div>
+
+<div class="wxshow-img-plane">
+      <img decoding="async" src="/assets/images/your-qrcode.png" alt="公众号二维码" />
+    </div>
+  </form>
+
+  <!-- 解密后的内容将插入这里 -->
+  <div class="pe-content"></div>
+</div>
+
 ## 改地区
 
 这里说的改地区，只是设置里的地区，不是AppleID账号地区

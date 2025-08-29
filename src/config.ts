@@ -1,16 +1,16 @@
 export default {
   // 网站标题
-  Title: '1煮豌豆博客',
+  Title: '豌豆博客',
   // 网站地址
   Site: 'https://www.zpea.cn',
   // 网站副标题
-  Subtitle: '不曾与你分享的时间,我在进步.',
+  Subtitle: 'Z读煮，pea中文是豌豆，就叫我煮豌豆吧！',
   // 网站描述
   Description: '韩小韩博客 专注于前开发与相关技术的实战分享，涵盖Vue框架、Node.js、Serverless等，并涉及Node、Python、Linux、Docker等领域。同时，博客也分享作者的生活、音乐和旅行的热爱。',
   // 网站作者
-  Author: '.𝙃𝙖𝙣',
+  Author: 'Zpea',
   // 作者头像
-  Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640',
+  Avatar: '/assets/images/brand-zulip.svg',
   // 网站座右铭
   Motto: '运气是计划之外的东西.',
   // Cover 网站缩略图
@@ -19,11 +19,11 @@ export default {
   Tips: '<p>欢迎光临我的博客 🎉</p><p>这里会分享我的日常和学习中的收集、整理及总结，希望能对你有所帮助:) 💖</p>',
   // 首页打字机文案列表
   TypeWriteList: [
-    '不曾与你分享的时间,我在进步.',
-    "I am making progress in the time I haven't shared with you.",
+    '人之初，性本善；世上本無仇，思想感染之.',
+    "Z pea.cn This is very remember.",
   ],
   // 网站创建时间
-  CreateTime: '2021-09-01',
+  CreateTime: '2025-08-01',
   // 顶部 Banner 配置
   HomeBanner: {
     enable: true,
@@ -32,7 +32,7 @@ export default {
     // 其他页面高度
     PageHeight: '28.88rem',
     // 背景
-    background: "url('/assets/images/home-banner.webp') no-repeat center 60%/cover",
+    background: "url('/assets/images/bg.webp') no-repeat center 60%/cover",
   },
   // 博客主题配置
   Theme: {
@@ -58,7 +58,7 @@ export default {
     { text: '昔日', link: '/archives', icon: 'Nav_archives' },
     { text: '留言', link: '/message', icon: 'Nav_message' },
     { text: '关于', link: '/about', icon: 'Nav_about' },
-    { text: 'API', link: 'https://api.vvhan.com/', target: true, icon: 'Nav_link' },
+    //{ text: 'API', link: 'https://api.vvhan.com/', target: true, icon: 'Nav_link' },
   ],
   // 侧边栏个人网站
   WebSites: [
@@ -88,7 +88,9 @@ export default {
     'https://analytics.vvhan.com',
     'https://vh-api.4ce.cn',
     'https://registry.npmmirror.com',
-    'https://pagead2.googlesyndication.com'
+    'https://pagead2.googlesyndication.com',
+    'https://b.sosel.net',
+    'https://analytics.sosel.net'
   ],
   // 博客音乐组件解析接口
   vhMusicApi: 'https://vh-api.4ce.cn/blog/meting',
@@ -107,7 +109,7 @@ export default {
     }
   },
   // Han Analytics 统计（https://github.com/uxiaohan/HanAnalytics）
-  HanAnalytics: { enable: true, server: 'https://analytics.vvhan.com', siteId: 'Hello-HanHexoBlog' },
+  HanAnalytics: { enable: true, server: 'https://analytics.sosel.net', siteId: 'zpea' },
   // Google 广告
   GoogleAds: {
     ad_Client: '', //ca-pub-xxxxxx

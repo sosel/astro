@@ -111,3 +111,26 @@ export default () => {
   console.log("%c🌻 程序：Astro | 主题：vhAstro-Theme | 作者：Han | Github：https://github.com/uxiaohan/vhAstro-Theme 🌻", "color:#fff; background: linear-gradient(270deg, #18d7d3, #68b7dd, #8695e6, #986fee); padding: 8px 15px; border-radius: 8px");
   console.log("%c\u521D\u59CB\u5316\u5B8C\u6BD5.", "color: #ffffff; background: #000; padding:5px");
 }
+/* ========== ProtectedEncrypted：按需动态加载 ========== */
+(() => {
+  if (typeof window === 'undefined') return;
+
+  const wire = async () => {
+    // （可选）若你只想在 /article/* 页面生效，取消下一行注释：
+    // if (!/^\/article(\/|$)/.test(location.pathname)) return;
+
+    // 页面上没有受保护块就不加载模块，避免无意义开销
+    if (!document.querySelector('.pe-block[data-protected-src]')) return;
+
+    const m = await import('./ProtectedEncrypted');
+    m.initProtectedEncrypted();
+  };
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', wire, { once: true });
+  } else {
+    wire();
+  }
+  // 你的站点启用了 swup：切换内容后再按需执行一次
+  window.addEventListener('swup:contentReplaced', wire);
+})();

@@ -271,3 +271,94 @@ article.vh-article-main {
     /* 结束角度 */
   }
 }
+/* 部分内容加密公众号外层容器：左右两列（左：提示+输入+按钮；右：二维码） */
+.wxshow {
+  display: flex;
+  align-items: center;        /* 让左右在同一水平线 */
+  justify-content: space-between;
+  gap: 16px;                  /* 左右留点间距 */
+  border: 1px solid rgba(0,0,0,.05);
+  padding: 10px;
+  /* max-width: 450px;  <-- 这会导致一行放不下时换行，建议放大或取消 */
+  max-width: 640px;           /* 放大到 640px（可按需调整），更能放下一行 */
+  width: 100%;
+  margin: 10px auto;
+  transition: all .3s ease 0s;
+  border-radius: 6px;         /* 稍微圆一点 */
+  font-size: 14px;
+}
+
+.wxshow:hover {
+  box-shadow: 0 1px 5px 0 rgb(0 0 0 / 10%);
+  border-color: rgba(0,0,0,.1);
+  transform: translateY(-3px);
+}
+
+/* 左侧：提示 + 输入 + 按钮（横向对齐，不强制换行） */
+.wxshow-pwd-plane {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;            /* 窄屏时允许换行，但优先同一行 */
+  gap: 8px 10px;              /* 元素间距（行间/列间） */
+  margin: 0;                  /* 去掉原来 10px 顶部外边距，避免被挤下去 */
+  flex: 1 1 auto;             /* 占据剩余空间，给右侧二维码留固定宽 */
+}
+
+/* 提示文字更紧凑些，不要把整行撑开 */
+.wxshow-pwd-plane p {
+  margin: 0;
+  font-weight: 600;
+  white-space: nowrap;        /* 尽量不折行（窄屏会因为 wrap 规则而换行） */
+}
+
+/* 输入框与按钮尺寸 */
+.wxshow .pwd-show-input {
+  box-sizing: border-box;
+  width: min(260px, 50vw);    /* 260px 或者不超过视口宽度一半 */
+  padding: 8px 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  outline: none;
+}
+
+.wxshow .pwd-show-btn {
+  padding: 8px 14px;
+  border: 0;
+  border-radius: 6px;
+  cursor: pointer;
+  background: #222;
+  color: #fff;
+}
+
+/* 右侧二维码固定在一列，避免被压缩变形 */
+.wxshow-img-plane {
+  margin-left: 10px;
+  flex: 0 0 auto;             /* 不要挤占左侧空间 */
+}
+
+.wxshow-img-plane img {
+  display: block;
+  width: 200px;               /* 你也可以用 150px，看你左侧空间是否够 */
+  height: auto;
+  max-width: 100%;
+  box-shadow: none !important;
+}
+
+/* 小屏：上下堆叠显示，居中 */
+@media (max-width: 500px) {
+  .wxshow {
+    flex-direction: column;
+    text-align: center;
+    max-width: 100%;
+    padding: 10px;
+  }
+  .wxshow-pwd-plane {
+    justify-content: center;
+  }
+  .wxshow-pwd-note {
+    text-align: left;
+  }
+  .wxshow-img-plane img {
+    width: 120px;             /* 可保持与上面一致 */
+  }
+}
