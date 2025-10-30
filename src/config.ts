@@ -109,7 +109,11 @@ export default {
     }
   },
   // Han Analytics 统计（https://github.com/uxiaohan/HanAnalytics）
-  HanAnalytics: { enable: true, server: 'https://analytics.sosel.net', siteId: 'zpea' },
+ // HanAnalytics: { enable: true, server: 'https://analytics.sosel.net', siteId: 'zpea' },
+   BaiduAnalytics: {
+    enable: true,  // 控制是否启用百度统计
+    siteId: '7914eed76c219d33106518e2ea3b4eeb',  // 这里填入你的百度统计 ID
+  },
   // Google 广告
   GoogleAds: {
     ad_Client: '', //ca-pub-xxxxxx

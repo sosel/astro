@@ -34,7 +34,9 @@ import initMobileSidebar from "@/scripts/MobileSidebar";
 // Google 广告
 import GoogleAdInit from "@/scripts/GoogleAd";
 // Han Analytics 统计
-import HanAnalyticsInit from "@/scripts/HanAnalytics";
+//import HanAnalyticsInit from "@/scripts/HanAnalytics";
+// BaiduAnalytics 统计
+import BaiduAnalyticsInit from "@/scripts/BaiduAnalytics";
 //  谷歌 SEO 推送
 import SeoPushInit from "@/scripts/SeoPush";
 // SmoothScroll 滚动优化
@@ -78,7 +80,9 @@ const indexInit = async (only: boolean = true) => {
   // 文章评论初始化
   checkComment() && commentInit(checkComment(), commentLIst)
   // Han Analytics 统计
-  HanAnalyticsInit();
+  //HanAnalyticsInit();
+  //百度统计
+  await BaiduAnalyticsInit();
   // 打字效果
   only && TypeWriteInit();
   // 泡泡🫧效果
@@ -111,26 +115,104 @@ export default () => {
   console.log("%c🌻 程序：Astro | 主题：vhAstro-Theme | 作者：Han | Github：https://github.com/uxiaohan/vhAstro-Theme 🌻", "color:#fff; background: linear-gradient(270deg, #18d7d3, #68b7dd, #8695e6, #986fee); padding: 8px 15px; border-radius: 8px");
   console.log("%c\u521D\u59CB\u5316\u5B8C\u6BD5.", "color: #ffffff; background: #000; padding:5px");
 }
-/* ========== ProtectedEncrypted：按需动态加载 ========== */
+/* ========== ProtectedEncrypted：按需动态加载 + 条件护栏 + 仅在 swup 容器内复位 data-wired ========== */
 (() => {
   if (typeof window === 'undefined') return;
 
-  const wire = async () => {
-    // （可选）若你只想在 /article/* 页面生效，取消下一行注释：
-    // if (!/^\/article(\/|$)/.test(location.pathname)) return;
+  // 和 astro.config.mjs 里的 swup(containers) 保持一致
+  const SWUP_CONTAINER_SELECTORS = [
+    '.main-inner>.main-inner-content',
+    '.vh-header>.main',
+  ];
 
-    // 页面上没有受保护块就不加载模块，避免无意义开销
-    if (!document.querySelector('.pe-block[data-protected-src]')) return;
+  function getSwupContainers(): Element[] {
+    const out: Element[] = [];
+    for (const sel of SWUP_CONTAINER_SELECTORS) {
+      document.querySelectorAll(sel).forEach((el) => out.push(el));
+    }
+    return out;
+  }
 
-    const m = await import('./ProtectedEncrypted');
+  function hasBlockInContainers(): boolean {
+    const cs = getSwupContainers();
+    if (cs.length === 0) return false;
+    return cs.some((c) => !!c.querySelector('.pe-block[data-protected-src]'));
+  }
+
+  function resetWiredInContainers(): void {
+    const cs = getSwupContainers();
+    if (cs.length === 0) return;
+    cs.forEach((c) => {
+      c.querySelectorAll<HTMLElement>('.pe-block[data-wired]').forEach((el) => {
+        el.removeAttribute('data-wired');
+      });
+    });
+  }
+
+  async function boot(): Promise<void> {
+    const m = await import('./ProtectedEncrypted'); // 二次导入会走缓存
     m.initProtectedEncrypted();
-  };
+  }
+
+  function observeThenBoot(): void {
+    const mo = new MutationObserver(() => {
+      if (hasBlockInContainers()) {
+        mo.disconnect();
+        resetWiredInContainers();
+        void boot();
+      }
+    });
+    mo.observe(document.documentElement, { childList: true, subtree: true });
+  }
+
+  // —— 提交“条件护栏”：仅在未绑定时拦截，加载完成后自动二次提交 —— //
+  let guardArmed = false;
+  let guardHandler: ((e: Event) => void) | null = null;
+
+  function armGuard(): void {
+    if (guardArmed) return;
+    guardArmed = true;
+    guardHandler = (e: Event) => {
+      const t = e.target as HTMLFormElement | null;
+      if (!t || typeof (t as any).matches !== 'function' || !t.matches('.pe-form')) return;
+
+      const block = t.closest('.pe-block') as HTMLElement | null;
+      const wired = !!block?.hasAttribute('data-wired');
+
+      if (!wired) {
+        // 仅在未绑定时拦截默认提交（避免整页刷新），并自动完成一次“加载→绑定→二次提交”
+        e.preventDefault();
+        resetWiredInContainers();
+        (async () => {
+          await boot(); // initProtectedEncrypted 会立刻给 block 加 data-wired 并绑定 submit
+          // 再次触发表单提交（此时已绑定，不会被我们这层拦下）
+          try {
+            t.dispatchEvent(new Event('submit', { bubbles: true, cancelable: true }));
+          } catch {}
+        })();
+      }
+      // 如果已经 wired，就不拦（让真正的 submit 监听器接管）
+    };
+    // 捕获阶段：先于页面其他监听器触发
+    document.addEventListener('submit', guardHandler as EventListener, true);
+  }
+
+  function wire(): void {
+    armGuard();                 // 护栏常驻，但只在“未绑定”时发挥作用
+    resetWiredInContainers();   // 返回缓存页时先复位 data-wired，确保能重新绑定
+    if (hasBlockInContainers()) {
+      void boot();              // 容器里已有受保护块：立即按需加载并绑定
+    } else {
+      observeThenBoot();        // 等块出现（兼容 swup 异步渲染时序）
+    }
+  }
 
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', wire, { once: true });
   } else {
     wire();
   }
-  // 你的站点启用了 swup：切换内容后再按需执行一次
+
+  // swup 切页后重新按需处理
   window.addEventListener('swup:contentReplaced', wire);
 })();

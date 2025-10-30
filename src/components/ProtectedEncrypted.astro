@@ -15,9 +15,7 @@ const root = document.currentScript.previousElementSibling;
 const form = root.querySelector('form');
 const input = form.querySelector('input[type="password"]');
 const contentEl = root.querySelector('.content');
-const srcUrl = <?=
-  JSON.stringify(Astro.props.src)
-?>;
+const srcUrl = Astro.props.src;
 
 function b64ToBuf(b64){ return Uint8Array.from(atob(b64), c => c.charCodeAt(0)).buffer; }
 function concatBuf(a,b){ const ua=new Uint8Array(a.byteLength+b.byteLength); ua.set(new Uint8Array(a)); ua.set(new Uint8Array(b), a.byteLength); return ua.buffer; }
@@ -35,7 +33,7 @@ async function deriveKey(password, salt){
 }
 
 form.addEventListener('submit', async (e) => {
-  e.preventDefault();
+  e.preventDefault();  // 确保不触发页面刷新
   const pwd = input.value;
   form.querySelector('button').disabled = true;
   try {
@@ -46,13 +44,14 @@ form.addEventListener('submit', async (e) => {
     const key = await deriveKey(pwd, salt);
     const plainBuf = await crypto.subtle.decrypt({ name: 'AES-GCM', iv, tagLength: 128 }, key, data);
     const html = new TextDecoder().decode(plainBuf);
-    contentEl.innerHTML = html;
-    form.remove();
-  } catch {
+    contentEl.innerHTML = html; // 直接更新内容
+    form.remove();  // 移除表单
+  } catch (error) {
     alert('解密失败：密码错误或数据损坏');
   } finally {
     form.querySelector('button').disabled = false;
-    input.value = '';
+    input.value = '';  // 清空输入框，防止重试
   }
 });
-</script>
+
+

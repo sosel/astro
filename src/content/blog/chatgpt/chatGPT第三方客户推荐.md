@@ -1,6 +1,6 @@
 ---
 title: "chatGPT第三方客户推荐"
-id: "chatgpt"
+id: "chatgpt another"
 date: 2025-08-27 17:15:50
 categories: "chatgpt"
 tags: ["GPT", "客户端", "第三方"]

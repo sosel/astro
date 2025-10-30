@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT降智了，如何解決"
-id: "chatgpt"
+id: "chatgpt unwise"
 date: 2025-08-27 17:15:50
 categories: "chatgpt"
 tags: ["GPT", "降智", "解决办法"]

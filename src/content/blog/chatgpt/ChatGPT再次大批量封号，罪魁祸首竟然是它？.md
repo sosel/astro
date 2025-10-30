@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT再次大批量封号，罪魁祸首竟然是它？"
-id: "chatgpt"
+id: "chatgpt again"
 date: 2025-08-27 17:15:50
 categories: "chatgpt"
 tags: ["ChatGPT", "封号", "IP"]

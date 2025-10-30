@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT Plus代充代开服务：解决客户需求的有效方式"
-id: "chatgpt-plus"
+id: "chatgpt-plus-server"
 date: 2025-08-27 17:15:50
 categories: "chatgpt"
 tags: ["GPT", "Plus", "代充"]

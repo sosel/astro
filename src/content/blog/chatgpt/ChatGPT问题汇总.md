@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT问题汇总"
-id: "chatgpt"
+id: "chatgpt qustions"
 date: 2025-08-27 17:15:50
 categories: "chatgpt"
 tags: ["GPT", "ChatGPT", "汇总"]

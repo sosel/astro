@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT如何修改密码？账号安全性分析"
-id: "chatgpt"
+id: "how to change the password for chatgpt"
 date: 2025-08-27 17:15:50
 categories: "chatgpt"
 tags: ["GPT", "改密码", "账号"]

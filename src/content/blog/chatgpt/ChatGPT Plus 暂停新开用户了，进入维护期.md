@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT Plus 暂停新开用户了，进入维护期"
-id: "chatgpt-plus"
+id: "chatgpt-plus-pause"
 date: 2025-08-27 17:15:50
 categories: "chatgpt"
 tags: ["GPT", "Plus", "创始人"]

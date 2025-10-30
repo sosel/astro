@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT中国地区使用网络问题不稳定的解决方法一"
-id: "chatgpt"
+id: "chatgpt country"
 date: 2025-08-27 17:15:50
 categories: "chatgpt"
 tags: ["ChatGPT", "网络", "地区"]

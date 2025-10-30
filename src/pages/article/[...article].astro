@@ -84,17 +84,3 @@ import "@/styles/ArticleBase.less";
 		{checkComment() && <Comment />}
 	</article>
 </Layout>
-<script type="module">
-  import { pageviewCount } from 'https://unpkg.com/@waline/client@3.6.0/dist/pageview.js';
-
-  pageviewCount({
-    serverURL: 'https://b.sosel.net',
-    path: window.location.pathname,
-
-    // 可选的，用于自定选择器，默认为 `'.waline-pageview-count'`
-    // selector: 'waline-pageview-count',
-
-    // 可选的，是否在获取时增加访问量，默认为 `true`
-    // update: true,
-  });
-</script>
