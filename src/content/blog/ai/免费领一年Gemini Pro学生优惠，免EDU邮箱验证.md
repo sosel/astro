@@ -19,7 +19,7 @@ top: false
 
 - 信用卡
 - 美国IP，最好是家宽ISP
-- [https://gemini.google/students/](https://www.nodeseek.com/jump?to=https%3A%2F%2Fgemini.google%2Fstudents%2F) 注册/登录，有学生体验，如果账号之前撸过，就换账号，并检测IP质量
+- [https://gemini.google/students/](https://gemini.google%2Fstudents%2F) 注册/登录，有学生体验，如果账号之前撸过，就换账号，并检测IP质量
 - 美国谷歌账号
 
 ## 验证学生

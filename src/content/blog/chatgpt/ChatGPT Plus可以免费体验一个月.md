@@ -97,7 +97,7 @@ for i in range(1):
 
 - at 换成账号
 
-- 直接访问下面链接即可获取AT：[https://chatgpt.com/api/auth/session](https://www.nodeseek.com/jump?to=https%3A%2F%2Fchatgpt.com%2Fapi%2Fauth%2Fsession)
+- 直接访问下面链接即可获取AT：[https://chatgpt.com/api/auth/session](https://chatgpt.com%2Fapi%2Fauth%2Fsession)
 - 运行脚本，脚本会输出付款链接
 - 不确保一直可用，随时可能失效
 

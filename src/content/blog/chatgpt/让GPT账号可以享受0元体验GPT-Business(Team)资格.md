@@ -111,7 +111,7 @@ for i in range(100):
 
 **第二步**：提取账号的AT，并替换脚本headers——authorization中的xxx为你的accessToken
 
-- 直接访问下面链接即可获取accessToken：[https://chatgpt.com/api/auth/session](https://www.nodeseek.com/jump?to=https%3A%2F%2Fchatgpt.com%2Fapi%2Fauth%2Fsession)
+- 直接访问下面链接即可获取accessToken：[https://chatgpt.com/api/auth/session](https://chatgpt.com%2Fapi%2Fauth%2Fsession)
 
 **第三步**：运行脚本，脚本会输出付款链接（想卡几个0元TEAM就让脚本输出几个付款链接）
 
