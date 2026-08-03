@@ -4,7 +4,7 @@ id: "chatgpt unwise"
 date: 2025-08-27 17:15:50
 categories: "chatgpt"
 tags: ["GPT", "降智", "解决办法"]
-cover: "https://oss.mailberry.com.cn/typora/2024/image-20241115182051952.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
+cover: "https://img.mailberry.com.cn/typora/2024/image-20241115182051952.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -15,17 +15,17 @@ top: false
 
 ## 问题
 
-![image-20241115182051952](https://oss.mailberry.com.cn/typora/2024/image-20241115182051952.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20241115182051952](https://img.mailberry.com.cn/typora/2024/image-20241115182051952.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 群里的交流情况
 
-![image-20241115182208913](https://oss.mailberry.com.cn/typora/2024/image-20241115182208913.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20241115182208913](https://img.mailberry.com.cn/typora/2024/image-20241115182208913.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 这用户反馈就是几乎无法用了
 
 ## 解决
 
-![image-20241115182251144](https://oss.mailberry.com.cn/typora/2024/image-20241115182251144.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20241115182251144](https://img.mailberry.com.cn/typora/2024/image-20241115182251144.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 用户通过手机客户端解决问题了，这里分享一下给其他同学参考
 

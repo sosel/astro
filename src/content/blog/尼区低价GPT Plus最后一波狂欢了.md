@@ -4,7 +4,7 @@ categories: Ai
 tags: ["尼区"]
 id: "nigeria chatgpt plus price"
 date: 2025-09-15 18:18:18
-cover: "https://t.zpea.cn/i/2025/image-20250915110228863.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20250915110228863.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -14,7 +14,7 @@ top: false
 其实尼区低价订阅已经有一段时间了，这个是给尼日利亚当地人民的福利，我一直不写文章的原因是担心大家把别人这福利撸黄了，但现在已经即将凉凉了，我也没有心理负担了，分享出来给大家撸最后一波了，到2025年9月16日，将恢复全球统一售价
 :::
 
-![image-20250915102250788](https://t.zpea.cn/i/2025/image-20250915102250788.png)
+![image-20250915102250788](https://img.mailberry.com.cn/i/2025/image-20250915102250788.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ## 尼区原价
 
@@ -25,7 +25,7 @@ top: false
 
 最低的苹果换算回来人民币，仅需要47元左右，相对来讲，国内用户一个月能省一张红牛了
 
-![image-20250915102921164](https://t.zpea.cn/i/2025/image-20250915102921164.png)
+![image-20250915102921164](https://img.mailberry.com.cn/i/2025/image-20250915102921164.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 所以很多国人用户都拥进去，开尼区钱包，还有很多用户写小红书，出视频教学，在这么大用户基数情况下，最终把这个福利撸黄了。
 
@@ -40,13 +40,13 @@ top: false
 
 现在再购买尼区钱包已经不划算了，那就多花点直接闲鱼购买礼品卡吧
 
-![image-20250915104104239](https://t.zpea.cn/i/2025/image-20250915104104239.png)
+![image-20250915104104239](https://img.mailberry.com.cn/i/2025/image-20250915104104239.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 直接搜索“尼日利亚礼品卡”，参考价现在是56~65左右，以前是52左右，临近失效反而涨价了，有点搞不懂。
 
 购买后得到一串代码“XPK2XXXXXY3N”
 
-![image-20250915104529963](https://t.zpea.cn/i/2025/image-20250915104529963.png)
+![image-20250915104529963](https://img.mailberry.com.cn/i/2025/image-20250915104529963.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 复制这段代码，后面要用到
 
@@ -54,7 +54,7 @@ top: false
 
 打开APP Store——登录尼区的ID——点右上角头像
 
-![image-20250915105046014](https://t.zpea.cn/i/2025/image-20250915105046014.png)
+![image-20250915105046014](https://img.mailberry.com.cn/i/2025/image-20250915105046014.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 在Account账号页面，点击“Redeem Gift Card or Code”——“You can also enter your code manually”填写上面购买到一种代码到Code，最后“Redeem”充值
 
@@ -68,13 +68,13 @@ top: false
 
 **坑点：**如果是新注册的ID或者刚改的区，可能账号容易风控，内购不成功
 
-![image-20250915110128248](https://t.zpea.cn/i/2025/image-20250915110128248.png)
+![image-20250915110128248](https://img.mailberry.com.cn/i/2025/image-20250915110128248.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 
 
 这种情况只能等风控过了，一般是2个小时到24小时
 
-![image-20250915110228863](https://t.zpea.cn/i/2025/image-20250915110228863.png)
+![image-20250915110228863](https://img.mailberry.com.cn/i/2025/image-20250915110228863.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 如果看到这个界面就是订购成功了
 

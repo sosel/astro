@@ -4,7 +4,7 @@ categories: Ai
 tags: ["gemini","学生优惠","免费"]
 id: "free years gemini pro"
 date: 2025-09-06 18:18:18
-cover: "https://oss.mailberry.com.cn/i/2025/image-20250904121015890.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20250904121015890.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -13,7 +13,7 @@ top: false
 
 现在各种Ai对学生还很友好的，经常能免费验证到Pro版本，这次看到Google推出的Gemini Pro活动，学生可以优惠使用一年Pro版本，今天就实操给一次，如果大家也有需求，可以跟着博主的教学薅羊毛。
 :::
-![image-20250904121015890](https://oss.mailberry.com.cn/i/2025/image-20250904121015890.png)
+![image-20250904121015890](https://img.mailberry.com.cn/i/2025/image-20250904121015890.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ## 条件
 
@@ -33,7 +33,7 @@ top: false
 第一步，打开
 ::btn[生成器地址]{link="https://student.frp.gs/"}
 
-![image-20250904165022801](https://oss.mailberry.com.cn/i/2025/image-20250904165022801.png)
+![image-20250904165022801](https://img.mailberry.com.cn/i/2025/image-20250904165022801.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 第二步，点一键填充所有者信息
 
@@ -43,7 +43,7 @@ top: false
 
 第五步，回到谷歌one上传身份证完成验证
 
-![image-20250904165341863](https://oss.mailberry.com.cn/i/2025/image-20250904165341863.png)
+![image-20250904165341863](https://img.mailberry.com.cn/i/2025/image-20250904165341863.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 第六步，绑定付款方式，完成
 
@@ -54,11 +54,11 @@ top: false
 
 第二步，复制**google one 验证您的学生身份页面** 的链接，如图所示
 
-![image-20250904165923922](https://oss.mailberry.com.cn/i/2025/image-20250904165923922.png)
+![image-20250904165923922](https://img.mailberry.com.cn/i/2025/image-20250904165923922.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 第三步，开始验证
 
-![image-20250904170029053](https://oss.mailberry.com.cn/i/2025/image-20250904170029053.png)
+![image-20250904170029053](https://img.mailberry.com.cn/i/2025/image-20250904170029053.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 这样就成功了
 

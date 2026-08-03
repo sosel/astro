@@ -4,7 +4,7 @@ id: "chatgpt-poe-chatgpt"
 date: 2025-08-27 17:15:50
 categories: "chatgpt"
 tags: ["Poe", "Chat", "GPT"]
-cover: "https://oss.mailberry.com.cn/picgo/2023/01/image-20230310163212500.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
+cover: "https://img.mailberry.com.cn/picgo/2023/01/image-20230310163212500.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -17,19 +17,19 @@ top: false
 
 同样能写代码
 
-![image-20230310163212500](https://oss.mailberry.com.cn/picgo/2023/01/image-20230310163212500.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230310163212500](https://img.mailberry.com.cn/picgo/2023/01/image-20230310163212500.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 Poe写的代码
 
-![image-20230310163436297](https://oss.mailberry.com.cn/picgo/2023/01/image-20230310163436297.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230310163436297](https://img.mailberry.com.cn/picgo/2023/01/image-20230310163436297.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ChatGPT写的代码
 
-![image-20230310163556822](https://oss.mailberry.com.cn/picgo/2023/01/image-20230310163556822.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230310163556822](https://img.mailberry.com.cn/picgo/2023/01/image-20230310163556822.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 Poe给的解释
 
-![image-20230310163741175](https://oss.mailberry.com.cn/picgo/2023/01/image-20230310163741175.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230310163741175](https://img.mailberry.com.cn/picgo/2023/01/image-20230310163741175.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ChatGPT给的解释
 
@@ -37,7 +37,7 @@ ChatGPT给的解释
 
 汇集了几个AI，就是注册一家，可以使用多个AI，包括了ChatGPT
 
-![image-20230310163940876](https://oss.mailberry.com.cn/picgo/2023/01/image-20230310163940876.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230310163940876](https://img.mailberry.com.cn/picgo/2023/01/image-20230310163940876.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 看到还有IOS客户端
 

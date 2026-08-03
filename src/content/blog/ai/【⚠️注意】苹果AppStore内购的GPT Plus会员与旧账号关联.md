@@ -4,7 +4,7 @@ categories: Ai
 tags: ["gpt,plus"]
 id: "appstore-gpt-plus"
 date: 2025-10-20 21:38:18
-cover: "https://t.zpea.cn/i/2025/image-20251020211820112.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20251020211820112.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -20,19 +20,19 @@ top: false
 
 我先是使用新的ID订阅，发现新账号风控，没办法完成内购
 
-![image-20251020211620989](https://t.zpea.cn/i/2025/image-20251020211620989.png)
+![image-20251020211620989](https://img.mailberry.com.cn/i/2025/image-20251020211620989.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 然后尝试把旧账号换个区，尝试一下订阅
 
-![image-20251020211857172](https://t.zpea.cn/i/2025/image-20251020211857172.png)
+![image-20251020211857172](https://img.mailberry.com.cn/i/2025/image-20251020211857172.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 发现旧账号可以成功订阅上，但是，但是却是这样的提示
 
-![image-20251020211820112](https://t.zpea.cn/i/2025/image-20251020211820112.png)
+![image-20251020211820112](https://img.mailberry.com.cn/i/2025/image-20251020211820112.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 **错误“此订阅与另一个OpenAI帐户相关联。”** 意思就是订阅到旧的GPT账号去了，赶紧登录旧账号确认。
 
-![image-20251020211714383](https://t.zpea.cn/i/2025/image-20251020211714383.png)
+![image-20251020211714383](https://img.mailberry.com.cn/i/2025/image-20251020211714383.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 确实是PLUS给旧账号订阅上了，这就尴尬了！
 

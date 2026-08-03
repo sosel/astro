@@ -4,15 +4,16 @@ categories: Ai
 tags: ['Team']
 id: "940ab9e794e01949"
 date: 2026-05-06 18:00:01
-cover: "https://t.zpea.cn/i/2026/image-20260506163048613.png"
+cover: "https://img.mailberry.com.cn/i/2026/image-20260506163048613.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
 使用过Team的同学应该都知道4月底的时候，Openai开始加强风控，很多以前开车的Team都很三天两头，就翻车了，现在更是直接关闭了ChatGPT Business（Team）免费试用的接口了，Plus的BUG价也修复了，把大家习惯陪着起来了再关门，奥特曼肯定学过三十六计的那个什么计来着的，现在大家都在问有没优惠方案，今天分享一下这两天拼车Team车的过程。
 :::
+
 ## 方案
 
-![image-20260506163048613](https://t.zpea.cn/i/2026/image-20260506163048613.png)
+![image-20260506163048613](https://img.mailberry.com.cn/i/2026/image-20260506163048613.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 这个优惠需要通过特定的优惠链接领取资格，验证通过才有资格领取优惠。
 
@@ -24,7 +25,7 @@ cover: "https://t.zpea.cn/i/2026/image-20260506163048613.png"
 
 也可以理解为主号开通Team，免费送一个成员席位。
 
-![image-20260506165435152](https://t.zpea.cn/i/2026/image-20260506165435152.png)
+![image-20260506165435152](https://img.mailberry.com.cn/i/2026/image-20260506165435152.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 **优惠链接**
 
@@ -35,7 +36,7 @@ https://chatgpt.com/?promoCode=EFFICIENTAPPUS 这个美国IP
 
 如果IP地址和地区不支持，会提示：促销不可用 你似乎不满足本次促销的资格条件。
 
-![image-20260506165232372](https://t.zpea.cn/i/2026/image-20260506165232372.png)
+![image-20260506165232372](https://img.mailberry.com.cn/i/2026/image-20260506165232372.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ## 案例
 
@@ -43,11 +44,11 @@ https://chatgpt.com/?promoCode=EFFICIENTAPPUS 这个美国IP
 
 这老师直接包车，不需要帮忙找车位，也是第一位让博主实操的，必须优惠
 
-![image-20260506164807144](https://t.zpea.cn/i/2026/image-20260506164807144.png)
+![image-20260506164807144](https://img.mailberry.com.cn/i/2026/image-20260506164807144.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 使用的是美国的IP及相关优惠
 
-![image-20260506165337949](https://t.zpea.cn/i/2026/image-20260506165337949.png)
+![image-20260506165337949](https://img.mailberry.com.cn/i/2026/image-20260506165337949.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 付了25美元
 
@@ -57,11 +58,11 @@ https://chatgpt.com/?promoCode=EFFICIENTAPPUS 这个美国IP
 
 车友一：检测第一位车主的账号有没资格，有48个月优惠资格就可以当司机号了
 
-![image-20260506170741116](https://t.zpea.cn/i/2026/image-20260506170741116.png)
+![image-20260506170741116](https://img.mailberry.com.cn/i/2026/image-20260506170741116.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 车主二：直接上车，比较简单
 
-![image-20260506171047924](https://t.zpea.cn/i/2026/image-20260506171047924.png)
+![image-20260506171047924](https://img.mailberry.com.cn/i/2026/image-20260506171047924.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 使用的是澳大利亚的IP，支付35AU
 
@@ -75,7 +76,7 @@ https://chatgpt.com/?promoCode=EFFICIENTAPPUS 这个美国IP
 
 使用的是roogoo平台的尊享卡，目前好像这个卡下线了
 
-![image-20260506171317017](https://t.zpea.cn/i/2026/image-20260506171317017.png)
+![image-20260506171317017](https://img.mailberry.com.cn/i/2026/image-20260506171317017.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 还有手续费，记得多充一点
 
@@ -83,11 +84,11 @@ https://chatgpt.com/?promoCode=EFFICIENTAPPUS 这个美国IP
 
 案例二，澳大利亚，35AU
 
-![image-20260506171514002](https://t.zpea.cn/i/2026/image-20260506171514002.png)
+![image-20260506171514002](https://img.mailberry.com.cn/i/2026/image-20260506171514002.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 使用的飞扬卡
 
-![image-20260506171741554](https://t.zpea.cn/i/2026/image-20260506171741554.png)
+![image-20260506171741554](https://img.mailberry.com.cn/i/2026/image-20260506171741554.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 会自动转换成美元支付，不仅仅 有手续费，还有充值费，还有授权费，损耗有点大
 

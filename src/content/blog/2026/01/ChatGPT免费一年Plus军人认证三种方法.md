@@ -4,7 +4,7 @@ categories: Ai
 tags: ['GPT']
 id: "9210acef3610cff2"
 date: 2026-01-06 12:19:17
-cover: "https://t.zpea.cn/i/2026/image-20260106113122159.png"
+cover: "https://img.mailberry.com.cn/i/2026/image-20260106113122159.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
@@ -57,11 +57,11 @@ https://t.me/auto_sheerid_bot?start=1238824530
 验证命令：
 /verify <链接> 
 
-![image-20260106112708170](https://t.zpea.cn/i/2026/image-20260106112708170.png)
+![image-20260106112708170](https://img.mailberry.com.cn/i/2026/image-20260106112708170.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 提示军人验证成功
 
-![image-20260106113122159](https://t.zpea.cn/i/2026/image-20260106113122159.png)
+![image-20260106113122159](https://img.mailberry.com.cn/i/2026/image-20260106113122159.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 提示 Not approved：首先修改IP地址尝试一下（不看纯净度），还行不行检查填写信息是否有误。
 提示 Verification Limit Exceeded：说明资料被多人使用

@@ -4,7 +4,7 @@ categories: Ai
 tags: ["team,business,gpt"]
 id: "gpt-business-team-credit-card"
 date: 2025-10-28 15:18:18
-cover: "https://t.zpea.cn/i/2025/image-20251028153642742.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20251028153642742.png?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -23,19 +23,19 @@ top: false
 
 第一步，通过上面链接注册账号后
 
-![image-20251028153542360](https://t.zpea.cn/i/2025/image-20251028153542360.png)
+![image-20251028153542360](https://img.mailberry.com.cn/i/2025/image-20251028153542360.png?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 点“**立即申请**”
 
 第二步，选择卡片类型
 
-![image-20251028153642742](https://t.zpea.cn/i/2025/image-20251028153642742.png)
+![image-20251028153642742](https://img.mailberry.com.cn/i/2025/image-20251028153642742.png?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 这里要选择紫色的尊享卡，可以看到 **开卡费用**是0USD，激活卡后还返现1USD
 
 支持业务
 
-![image-20251028153824583](https://t.zpea.cn/i/2025/image-20251028153824583.png)
+![image-20251028153824583](https://img.mailberry.com.cn/i/2025/image-20251028153824583.png?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 第三步，实名认证，跟着指导完成便可，建议使用sumsub
 
@@ -47,7 +47,7 @@ top: false
 
 这里要用到USDT/PILA，可以通过币安或者欧易OKX等交易所购买，也可以直接通过TRO(TRC20)链上充币
 
-![image-20251028154335727](https://t.zpea.cn/i/2025/image-20251028154335727.png)
+![image-20251028154335727](https://img.mailberry.com.cn/i/2025/image-20251028154335727.png?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 再回到申请卡片重新开卡
 
@@ -55,7 +55,7 @@ top: false
 
 开好卡后，可以点卡片——卡号，查看卡片的详细信息，包括卡号，日期，用户名，CVV码，地址，拿到这些后，直接去GPT订购便可
 
-![image-20251028154723402](https://t.zpea.cn/i/2025/image-20251028154723402.png)
+![image-20251028154723402](https://img.mailberry.com.cn/i/2025/image-20251028154723402.png?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 看到这个，就是付款成功了
 

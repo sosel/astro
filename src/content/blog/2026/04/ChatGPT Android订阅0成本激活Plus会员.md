@@ -4,7 +4,7 @@ categories: Ai
 tags: ['BUG']
 id: "dd2ab45c5af0c349"
 date: 2026-04-21 16:48:04
-cover: "https://t.zpea.cn/i/2026/image-20260421164444705.png"
+cover: "https://img.mailberry.com.cn/i/2026/image-20260421164444705.png?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
@@ -72,7 +72,7 @@ Google Play 后台为每个优惠档位分配了唯一的 `offerId`，脚本通�
 
 
 
-![image-20260421164444705](https://t.zpea.cn/i/2026/image-20260421164444705.png)
+![image-20260421164444705](https://img.mailberry.com.cn/i/2026/image-20260421164444705.png?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 
 
@@ -136,7 +136,7 @@ frida -U -n ChatGPT -l hook_1m.js
 
 在 ChatGPT 里点击升级订阅 → 在 Google Play 弹窗里**点确认**。
 
-![图片[5]-如何在Android模拟器上使用Frida破解ChatGPT订阅优惠](https://t.zpea.cn/i/2026/d2b5ca33bd20260420150655.png)
+![图片[5]-如何在Android模拟器上使用Frida破解ChatGPT订阅优惠](https://img.mailberry.com.cn/i/2026/d2b5ca33bd20260420150655.png?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 购买完成后，当前账号即可获得 1 个月 Plus 会员。
 

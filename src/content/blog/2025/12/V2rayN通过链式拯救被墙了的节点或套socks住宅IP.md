@@ -4,7 +4,7 @@ categories: 住宅
 tags: ['代理']
 id: "984539b4e4729639"
 date: 2025-12-12 11:12:04
-cover: "https://t.zpea.cn/i/2025/image-20251211221623676.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20251211221623676.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
@@ -13,11 +13,11 @@ cover: "https://t.zpea.cn/i/2025/image-20251211221623676.png"
 
 ## 检测
 
-![image-20251211221412138](https://t.zpea.cn/i/2025/image-20251211221412138.png)
+![image-20251211221412138](https://img.mailberry.com.cn/i/2025/image-20251211221412138.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 可以看到同节点，在不同的组，一个可以通，一个不通
 
-![image-20251211221623676](https://t.zpea.cn/i/2025/image-20251211221623676.png)
+![image-20251211221623676](https://img.mailberry.com.cn/i/2025/image-20251211221623676.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 再检测IP和端口，海外是通的，国内不通，就明墙了
 
@@ -29,7 +29,7 @@ cover: "https://t.zpea.cn/i/2025/image-20251211221623676.png"
 
 这个别名可以自己优质路线机，也可以是机场的节点 
 
-![image-20251211222105160](https://t.zpea.cn/i/2025/image-20251211222105160.png)
+![image-20251211222105160](https://img.mailberry.com.cn/i/2025/image-20251211222105160.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 挑一个下载测速好的，延时低的，我喜欢香港03，就选择它，把别名复制出来 **🇭🇰CN丨香港03**
 
@@ -37,7 +37,7 @@ cover: "https://t.zpea.cn/i/2025/image-20251211221623676.png"
 
 点旁边的 **+** 号添加一个分组
 
-![image-20251211222733458](https://t.zpea.cn/i/2025/image-20251211222733458.png)
+![image-20251211222733458](https://img.mailberry.com.cn/i/2025/image-20251211222733458.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 组的别名随便起
 
@@ -57,7 +57,7 @@ cover: "https://t.zpea.cn/i/2025/image-20251211221623676.png"
 
 顺便把如何套餐socks住宅IP也写上，算是交了《最简单的Socks住宅IP应用（PC端）》的作业了
 
-![image-20251212102239789](https://t.zpea.cn/i/2025/image-20251212102239789.png)
+![image-20251212102239789](https://img.mailberry.com.cn/i/2025/image-20251212102239789.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 添加【socks配置文件】——填写相关的IP：端口：用户名：密码——确定——测速。✅完成
 

@@ -4,7 +4,7 @@ categories: 分类Ai
 tags: ['Plus']
 id: "1eea9febf291d0ec"
 date: 2026-01-12 21:13:47
-cover: "https://t.zpea.cn/i/2026/image-20260112204955982.png"
+cover: "https://img.mailberry.com.cn/i/2026/image-20260112204955982.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
@@ -14,21 +14,21 @@ cover: "https://t.zpea.cn/i/2026/image-20260112204955982.png"
 
 其实之前就分享过免费领GPT了，今天特别再写一次，是刚好一个老客户，发现自己的账号可以免费订阅PLUS，找我帮忙解决问题，并从小红字上发了教学，促使我也想分享到小红字，所以分享一下我解决的过程。
 
-![image-20260112204910391](https://t.zpea.cn/i/2026/image-20260112204910391.png)
+![image-20260112204910391](https://img.mailberry.com.cn/i/2026/image-20260112204910391.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 有个免费赠品
 
-![image-20260112204955982](https://t.zpea.cn/i/2026/image-20260112204955982.png)
+![image-20260112204955982](https://img.mailberry.com.cn/i/2026/image-20260112204955982.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 查看账号，可以免费试用ChatGPT Plus
 
 ## 绑卡
 
-![image-20260112205035077](https://t.zpea.cn/i/2026/image-20260112205035077.png)
+![image-20260112205035077](https://img.mailberry.com.cn/i/2026/image-20260112205035077.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 输入卡号
 
-![image-20260112205152914](https://t.zpea.cn/i/2026/image-20260112205152914.png)
+![image-20260112205152914](https://img.mailberry.com.cn/i/2026/image-20260112205152914.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 可能很多人同学都是卡在这一步，就是输入visa或者mastercard后，提示“您的银行卡被拒绝了。”
 
@@ -46,7 +46,7 @@ cover: "https://t.zpea.cn/i/2026/image-20260112204955982.png"
 
 第一，更换一个纯净的IP
 
-![image-20260112210317081](https://t.zpea.cn/i/2026/image-20260112210317081.png)
+![image-20260112210317081](https://img.mailberry.com.cn/i/2026/image-20260112210317081.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 从
 ::btn[点击体验]{link="https://scamalytics.com/"}
@@ -56,7 +56,7 @@ cover: "https://t.zpea.cn/i/2026/image-20260112204955982.png"
 
 如果换了IP还是不行，可以换张卡试试
 
-![image-20260112210714263](https://t.zpea.cn/i/2026/image-20260112210714263.png)
+![image-20260112210714263](https://img.mailberry.com.cn/i/2026/image-20260112210714263.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 可以看到我最近几天都能白嫖到
 

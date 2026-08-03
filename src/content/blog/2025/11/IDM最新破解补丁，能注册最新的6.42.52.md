@@ -4,7 +4,7 @@ categories: 工具
 tags: ['IDM']
 id: "7301628b1dc388f5"
 date: 2025-11-11 16:34:43
-cover: "https://t.zpea.cn/i/2025/image-20251111162111014.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20251111162111014.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
@@ -12,7 +12,7 @@ cover: "https://t.zpea.cn/i/2025/image-20251111162111014.png"
 好久没给Internet Download Manager更新，目前测试，可以破解最新版本6.42.52的，如果尝试用户可以更长的时间试用.
 :::
 
-![image-20251111161035423](https://t.zpea.cn/i/2025/image-20251111161035423_1.png)
+![image-20251111161035423](https://img.mailberry.com.cn/i/2025/image-20251111161035423.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ## 支持正版
 
@@ -30,13 +30,13 @@ cover: "https://t.zpea.cn/i/2025/image-20251111162111014.png"
 
 破解补订能注册最新版本的IDM6.42.52的。先用一下网络上担任的crack破解补丁，再做一下久一点的体验后，再决定要不要购买永久版吧。
 
-![image-20251111162111014](https://t.zpea.cn/i/2025/image-20251111162111014.png)
+![image-20251111162111014](https://img.mailberry.com.cn/i/2025/image-20251111162111014.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ## 补丁
 
 补订文件可能会被杀毒软件会报毒，自行考虑要不要用吧。**解压密码：123**
 
-![image-20251111162031132](https://t.zpea.cn/i/2025/image-20251111162031132.png)
+![image-20251111162031132](https://img.mailberry.com.cn/i/2025/image-20251111162031132.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ## 资源
 

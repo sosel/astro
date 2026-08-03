@@ -4,7 +4,7 @@ id: "how to change the password for chatgpt"
 date: 2025-08-27 17:15:50
 categories: "chatgpt"
 tags: ["GPT", "改密码", "账号"]
-cover: "https://oss.mailberry.com.cn/picgo/2023/02/image-20230301195244810.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
+cover: "https://img.mailberry.com.cn/picgo/2023/02/image-20230301195244810.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -19,7 +19,7 @@ top: false
 
 说明地址：https://help.openai.com/en/articles/4936828-how-do-i-change-my-account-password
 
-![image-20230301195244810](https://oss.mailberry.com.cn/picgo/2023/02/image-20230301195244810.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230301195244810](https://img.mailberry.com.cn/picgo/2023/02/image-20230301195244810.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 翻译后意思
 
@@ -40,13 +40,13 @@ top: false
 >
 > 如果您没有收到电子邮件，或者重置过程不起作用，请检查您最初是否使用 Google 或 Microsoft 帐户进行了身份验证。如果您使用其中一种方法，请尝试使用该身份验证方法登录。
 
-![image-20230301195355884](https://oss.mailberry.com.cn/picgo/2023/02/image-20230301195355884.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230301195355884](https://img.mailberry.com.cn/picgo/2023/02/image-20230301195355884.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 Openai老子也把ChatGPT小子给难住了，编都编不下去了。 
 
 ## 操作
 
-![image-20230301195949335](https://oss.mailberry.com.cn/picgo/2023/02/image-20230301195949335.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230301195949335](https://img.mailberry.com.cn/picgo/2023/02/image-20230301195949335.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 第一步：打开官网chat.openai.com 
 
@@ -54,11 +54,11 @@ Openai老子也把ChatGPT小子给难住了，编都编不下去了。
 
 第三步：重置密码连接已发到你邮箱，登录邮箱点链接重置密码便可。Reset password
 
-![image-20230301200925175](https://oss.mailberry.com.cn/picgo/2023/02/image-20230301200925175.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230301200925175](https://img.mailberry.com.cn/picgo/2023/02/image-20230301200925175.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 Reset password成功
 
-![image-20230301201509401](https://oss.mailberry.com.cn/picgo/2023/02/image-20230301201509401.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230301201509401](https://img.mailberry.com.cn/picgo/2023/02/image-20230301201509401.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ## 总结
 

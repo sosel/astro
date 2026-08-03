@@ -4,7 +4,7 @@ id: "chatgpt-plus"
 date: 2025-08-27 17:15:50
 categories: "chatgpt"
 tags: ["GPT", "Plus", "银联"]
-cover: "https://oss.mailberry.com.cn/picgo/2023/02/image-20230309200956010.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
+cover: "https://img.mailberry.com.cn/picgo/2023/02/image-20230309200956010.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -17,11 +17,11 @@ top: false
 
 登录chat.openai.com
 
-![image-20230309200956010](https://oss.mailberry.com.cn/picgo/2023/02/image-20230309200956010.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230309200956010](https://img.mailberry.com.cn/picgo/2023/02/image-20230309200956010.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 点“Upgrade to Plus”
 
-![image-20230309200650288](https://oss.mailberry.com.cn/picgo/2023/02/image-20230309200650288.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230309200650288](https://img.mailberry.com.cn/picgo/2023/02/image-20230309200650288.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 可以看到银联的图片了
 

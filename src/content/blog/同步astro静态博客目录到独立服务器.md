@@ -4,7 +4,7 @@ categories: 教程
 tags: ["astro"]
 id: "auto sync astro to vps"
 date: 2025-09-16 18:18:18
-cover: "https://t.zpea.cn/i/2025/image-20250915180814795.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20250915180814795.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 --- 
@@ -33,15 +33,15 @@ top: false
 
 打开RaiDrive或者rclone，我这里就以RaiDrive为例吧，有GUI好操作了
 
-![image-20250915173354664](https://t.zpea.cn/i/2025/image-20250915173354664.png)
+![image-20250915173354664](https://img.mailberry.com.cn/i/2025/image-20250915173354664.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 添加——新的虚拟驱动器——SFTP（如果是虚拟主机，可以选择FTP）
 
-![image-20250915173522634](https://t.zpea.cn/i/2025/image-20250915173522634.png)
+![image-20250915173522634](https://img.mailberry.com.cn/i/2025/image-20250915173522634.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 直接填写服务地址，目录，用户名和密码，确定
 
-![image-20250915173709120](https://t.zpea.cn/i/2025/image-20250915173709120.png)
+![image-20250915173709120](https://img.mailberry.com.cn/i/2025/image-20250915173709120.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 本地电脑就多出一个虚拟硬盘了
 
@@ -49,15 +49,15 @@ top: false
 
 打开FreeFilesync——新建一个同步配置
 
-![image-20250915171259910](https://t.zpea.cn/i/2025/image-20250915171259910.png)
+![image-20250915171259910](https://img.mailberry.com.cn/i/2025/image-20250915171259910.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 左边选择**文件内容**
 
-![image-20250915174714421](https://t.zpea.cn/i/2025/image-20250915174714421.png)
+![image-20250915174714421](https://img.mailberry.com.cn/i/2025/image-20250915174714421.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 右边选择**镜像**
 
-![image-20250915174743592](https://t.zpea.cn/i/2025/image-20250915174743592.png)
+![image-20250915174743592](https://img.mailberry.com.cn/i/2025/image-20250915174743592.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 最终是这样
 
@@ -66,7 +66,7 @@ top: false
 3. 比较“文件内容”
 4. 同步“镜像”
 
-![image-20250915170056098](https://t.zpea.cn/i/2025/image-20250915170056098.png)
+![image-20250915170056098](https://img.mailberry.com.cn/i/2025/image-20250915170056098.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 比较后同步，数据就当镜像上传到目录器的站点目录了
 
@@ -74,17 +74,17 @@ top: false
 
 实现定时自动同步，不用每次都打开FreeFilesync手动同步，在FreeFilesync点“另存为批处理作业”
 
-![image-20250915175237917](https://t.zpea.cn/i/2025/image-20250915175237917.png)
+![image-20250915175237917](https://img.mailberry.com.cn/i/2025/image-20250915175237917.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 另存为
 
-![image-20250915175324839](https://t.zpea.cn/i/2025/image-20250915175324839.png)
+![image-20250915175324839](https://img.mailberry.com.cn/i/2025/image-20250915175324839.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 得到 一个“ffs_batch”文件，我起名“自动同步astro构建目录到服务器.ffs_batch”
 
 接着打开“RealTimeSync” 安装FreeFilesync时会一起安装的
 
-![image-20250915180814795](https://t.zpea.cn/i/2025/image-20250915180814795.png)
+![image-20250915180814795](https://img.mailberry.com.cn/i/2025/image-20250915180814795.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 新建一个自动同步——导入“自动同步astro构建目录到服务器.ffs_batch”
 
@@ -97,11 +97,11 @@ top: false
 start "realtimesync" "D:\Program Files\FreeFileSync\RealTimeSync.exe" "C:\Users\Sosel\OneDrive\备份\FreeFileSync自动脚本\自动同步astro构建目录到服务器.ffs_batch"
 ```
 
-![image-20250916154414223](https://t.zpea.cn/i/2025/image-20250916154414223.png)
+![image-20250916154414223](https://img.mailberry.com.cn/i/2025/image-20250916154414223.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 最后把这个bat快捷启动菜单
 
-![image-20250916154702569](https://t.zpea.cn/i/2025/image-20250916154702569.png)
+![image-20250916154702569](https://img.mailberry.com.cn/i/2025/image-20250916154702569.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 这样开机就会自动运行raltimesync监控目录的变化，只要目录有变化就会自动同步，这个类似网盘一样。
 

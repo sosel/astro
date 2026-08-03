@@ -4,7 +4,7 @@ id: "chat-gpt-plus"
 date: 2025-08-27 17:15:50
 categories: "chatgpt"
 tags: ["GPT", "Plus", "邀请"]
-cover: "https://oss.mailberry.com.cn/picgo/2023/03/image-20231126204858189.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
+cover: "https://img.mailberry.com.cn/picgo/2023/03/image-20231126204858189.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -17,11 +17,11 @@ top: false
 
 此时老客户端过来，说有订阅链接的，叫我就只做代付是否可以，我还以为找到其它号，以前开通过Plus的，原来我的老客户有方法，这里要感谢我的这位客户，这里暂且叫他：EV。EV不但给我介绍新客户，还给我带来这个方法的信息，在此感谢EV。
 
-![image-20231126204858189](https://oss.mailberry.com.cn/picgo/2023/03/image-20231126204858189.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20231126204858189](https://img.mailberry.com.cn/picgo/2023/03/image-20231126204858189.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 原来chatGPT Plus 可以直接绕过排队，直接支付便可以订阅成功
 
-![image-20231126205113778](https://oss.mailberry.com.cn/picgo/2023/03/image-20231126205113778.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20231126205113778](https://img.mailberry.com.cn/picgo/2023/03/image-20231126205113778.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 已经通过订阅付款页面链接代付成功，而且对方也已验证可以了。
 

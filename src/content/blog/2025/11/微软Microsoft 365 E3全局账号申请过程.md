@@ -4,7 +4,7 @@ categories: 教程
 tags: ['E3']
 id: "f6f77fa6bba67d21"
 date: 2025-11-14 11:54:57
-cover: "https://t.zpea.cn/i/2025/image-20251114112311221.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20251114112311221.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
@@ -23,33 +23,33 @@ https://signup.microsoft.com/get-started/signup?products=35dffc92-9eb4-4d5c-82c2
 
 直接输入邮箱地址注册
 
-![image-20251114112231721](https://t.zpea.cn/i/2025/image-20251114112231721_1.png)
+![image-20251114112231721](https://img.mailberry.com.cn/i/2025/image-20251114112231721.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 随意
 
-![image-20251114112311221](https://t.zpea.cn/i/2025/image-20251114112311221.png)
+![image-20251114112311221](https://img.mailberry.com.cn/i/2025/image-20251114112311221.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 创建账号
 
-![image-20251114112406841](https://t.zpea.cn/i/2025/image-20251114112406841.png)
+![image-20251114112406841](https://img.mailberry.com.cn/i/2025/image-20251114112406841.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 填写资料，下一步
 
-![image-20251114112437315](https://t.zpea.cn/i/2025/image-20251114112437315.png)
+![image-20251114112437315](https://img.mailberry.com.cn/i/2025/image-20251114112437315.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 填写地址信息，保存
 
-![image-20251114112506724](https://t.zpea.cn/i/2025/image-20251114112506724.png)
+![image-20251114112506724](https://img.mailberry.com.cn/i/2025/image-20251114112506724.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 填写用户名和域名，并设置密码，要记住这些信息，下一步
 
-![image-20251114112601863](https://t.zpea.cn/i/2025/image-20251114112601863.png)
+![image-20251114112601863](https://img.mailberry.com.cn/i/2025/image-20251114112601863.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 纳税人识别号，随便填写个身份证号码，保存
 
 提示无法验证地址不用管它，继续，到付款这个页面，就**停止**
 
-![image-20251114104314310](https://t.zpea.cn/i/2025/image-20251114104314310.png)
+![image-20251114104314310](https://img.mailberry.com.cn/i/2025/image-20251114104314310.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ### 订阅
 
@@ -57,19 +57,19 @@ https://signup.microsoft.com/get-started/signup?products=35dffc92-9eb4-4d5c-82c2
 
 https://admin.cloud.microsoft/?pid=C69E7747-2566-4897-8CBA-B998ED3BAB88&quan=25&bc=1&sku=189a915c-fe4f-4ffa-bde4-85b9628d07a0&ru=PDP#/Purchase/checkout
 
-![image-20251114104823873](https://t.zpea.cn/i/2025/image-20251114104823873.png)
+![image-20251114104823873](https://img.mailberry.com.cn/i/2025/image-20251114104823873.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 就直接在刚才需要填写付款信息的页面，直接粘地址访问就可以
 
-![image-20251114104833342](https://t.zpea.cn/i/2025/image-20251114104833342.png)
+![image-20251114104833342](https://img.mailberry.com.cn/i/2025/image-20251114104833342.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 重新登录后，来到购物车页面，选择“Alipay”
 
-![image-20251114104840015](https://t.zpea.cn/i/2025/image-20251114104840015.png)
+![image-20251114104840015](https://img.mailberry.com.cn/i/2025/image-20251114104840015.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 可以看到右边的详情，是0CNY——点Place order
 
-![image-20251114104910717](https://t.zpea.cn/i/2025/image-20251114104910717.png)
+![image-20251114104910717](https://img.mailberry.com.cn/i/2025/image-20251114104910717.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 看到这个提示，就成功了
 

@@ -4,7 +4,7 @@ categories: 分类
 tags: ['标签']
 id: "54182f6dd1fe5ee4"
 date: 2025-11-10 15:44:55
-cover: "https://t.zpea.cn/i/2025/image-20251110152514573.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20251110152514573.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
@@ -18,7 +18,7 @@ cover: "https://t.zpea.cn/i/2025/image-20251110152514573.png"
 
 
 
-![image-20251110103929347](https://t.zpea.cn/i/2025/image-20251110103929347.png)
+![image-20251110103929347](https://img.mailberry.com.cn/i/2026/image-20251229155227343.png?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ## 延伸
 
@@ -30,7 +30,7 @@ cover: "https://t.zpea.cn/i/2025/image-20251110152514573.png"
 
 Wake-On-Lan和Depicu Wake on Lan
 
-![image-20251110152514573](https://t.zpea.cn/i/2025/image-20251110152514573.png)
+![image-20251110152514573](https://img.mailberry.com.cn/i/2025/image-20251110152514573.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 在Wake-On-Lan配置好远程公网IP和内网IP，这里需要做端口映射和ARP绑定，有机会再详细介绍
 
@@ -38,7 +38,7 @@ Wake-On-Lan和Depicu Wake on Lan
 
 我使用WEB版本的Depicu 
 
-![image-20251110152742449](https://t.zpea.cn/i/2025/image-20251110152742449.png)
+![image-20251110152742449](https://img.mailberry.com.cn/i/2025/image-20251110152742449.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 直接添加到标签书签栏里，想要唤醒哪台点哪台
 

@@ -4,7 +4,7 @@ categories: Ai
 tags: ["team"]
 id: "free trial business"
 date: 2025-10-24 09:18:18
-cover: "https://t.zpea.cn/i/2025/image-20251024100951631.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20251024100951631.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -37,7 +37,7 @@ top: false
 
 使用住宅家宽ISP优质IP，有些太多人使用的IP，可以资格都被试用完了，换一些优质的IP访问，GPT平台认为是优质用户，就会推给你优惠体验入口
 
-![image-20251024100951631](https://t.zpea.cn/i/2025/image-20251024100951631.png)
+![image-20251024100951631](https://img.mailberry.com.cn/i/2025/image-20251024100951631.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 如果使用了优质IP，还是没看到这个入口，可以尝试注册一下新的账号，一般**优质IP+新号**，基本上就能获取到试用入口了。
 

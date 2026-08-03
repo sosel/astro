@@ -4,7 +4,7 @@ categories: Code
 tags: ["Ios", "苹果", "TikTok", "tk"]
 id: "resolving tiktok network issuce"
 date: 2025-03-02 18:18:18
-cover: "https://oss.mailberry.com.cn/i/2025/image-20250703113048876.webp"
+cover: "https://img.mailberry.com.cn/i/2025/image-20250703113048876.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: true
 top: true
 ---
@@ -13,7 +13,7 @@ top: true
 
 之前写过《[解决安卓Tiktok检测SIM卡问题，免拨卡刷官方国际版抖音](https://mailberry.com.cn/2025/05/solve-android-tiktok-not-network/)》，有提到过苹果现在不需要拨卡了，但还是发现会有这个“网络连接不稳定”提示，造成并不是直接安装就能使用，其实要解决这个问题很简单，今天就跟着我一起操作
 
-![image-20250703111336819](https://oss.mailberry.com.cn/i/2025/image-20250703111336819.webp)
+![image-20250703111336819](https://img.mailberry.com.cn/i/2025/image-20250703111336819.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ## 问题
 
@@ -51,19 +51,19 @@ top: true
 
 打开：设置——通用——语言与地区
 
-![image-20250703112158875](https://oss.mailberry.com.cn/i/2025/image-20250703112158875.webp)
+![image-20250703112158875](https://img.mailberry.com.cn/i/2025/image-20250703112158875.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 把“中国大陆”改在你想要的目标地区
 
-![image-20250703112317151](https://oss.mailberry.com.cn/i/2025/image-20250703112317151.webp)
+![image-20250703112317151](https://img.mailberry.com.cn/i/2025/image-20250703112317151.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 比如我改成日本
 
-![image-20250703112357508](https://oss.mailberry.com.cn/i/2025/image-20250703112357508.webp)
+![image-20250703112357508](https://img.mailberry.com.cn/i/2025/image-20250703112357508.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 确认更改后，后台关闭TK的APP再重新打开
 
-![image-20250703113048876](https://oss.mailberry.com.cn/i/2025/image-20250703113048876.webp)
+![image-20250703113048876](https://img.mailberry.com.cn/i/2025/image-20250703113048876.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 至此：已经可以正常使用了
 
@@ -77,15 +77,15 @@ top: true
 
 主页——“三”
 
-![image-20250703113826857](https://oss.mailberry.com.cn/i/2025/image-20250703113826857.webp)
+![image-20250703113826857](https://img.mailberry.com.cn/i/2025/image-20250703113826857.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 更改“应用语言”
 
-![image-20250703113904282](https://oss.mailberry.com.cn/i/2025/image-20250703113904282.webp)
+![image-20250703113904282](https://img.mailberry.com.cn/i/2025/image-20250703113904282.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 比如改成日本的
 
-![image-20250703114010754](https://oss.mailberry.com.cn/i/2025/image-20250703114010754.webp)
+![image-20250703114010754](https://img.mailberry.com.cn/i/2025/image-20250703114010754.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 现在刷的基本就是日本的内容了
 

@@ -4,7 +4,7 @@ categories: 工具
 tags: ['TG']
 id: "713a4d7d358503fb"
 date: 2025-12-10 16:00:24
-cover: "https://t.zpea.cn/i/2025/image-20251210113112957.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20251210113112957.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
@@ -17,13 +17,13 @@ cover: "https://t.zpea.cn/i/2025/image-20251210113112957.png"
 
 直接上操作图
 
-![image-20251210111937870](https://t.zpea.cn/i/2025/image-20251210111937870.png)
+![image-20251210111937870](https://img.mailberry.com.cn/i/2025/image-20251210111937870.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 设置(Settings)——隐私与安全（Privacy and Security）——通行密钥（Passkeys）——创建通行密钥（Create Passkey）——继续
 
 然后**验证指纹**，截不了图
 
-![image-20251210113112957](https://t.zpea.cn/i/2025/image-20251210113112957.png)
+![image-20251210113112957](https://img.mailberry.com.cn/i/2025/image-20251210113112957.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 成功后，会有一个KEY了
 

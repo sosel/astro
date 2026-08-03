@@ -4,7 +4,7 @@ categories: 教程
 tags: ["astro"]
 id: "astro-part-content-encryption"
 date: 2025-09-10 18:18:18
-cover: "https://t.zpea.cn/i/2025/1757487905991-1757487707170-20250910_123858.webp"
+cover: "https://img.mailberry.com.cn/i/2025/1757487905991-1757487707170-20250910_123858.webp"
 recommend: true
 top: true
 ---
@@ -15,7 +15,7 @@ top: true
 由于Astro最后构建的是HTML纯静态内容，要实现部分内容加密并没有wordpress那么方便，在借助GPT5的帮助下，完成了纯静态内容加密解密功能，最终实现通过微信扫码关注公众号，发送预设好的自动回复，得到答案完成解锁查看完整内容，效果如动态所示：
 :::
 
-![1757487905991-1757487707170-20250910_123858](https://t.zpea.cn/i/2025/1757487905991-1757487707170-20250910_123858.webp)
+![1757487905991-1757487707170-20250910_123858](https://img.mailberry.com.cn/i/2025/1757487905991-1757487707170-20250910_123858.webp)
 
 ## 文件变动
 
@@ -411,7 +411,7 @@ async function deriveKey(password: string, salt: ArrayBuffer) {
 
 // 用法：node script/encrypt-section.mjs <输入html> <输出json> "<密码>"
 
-![image-20250910123113350](https://t.zpea.cn/i/2025/image-20250910123113350.png)
+![image-20250910123113350](https://img.mailberry.com.cn/i/2025/image-20250910123113350.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 即生成**2.2**中的：public\protected\tiktok-ios-p3.enc.json文件
 
@@ -445,7 +445,7 @@ async function deriveKey(password: string, salt: ArrayBuffer) {
 
 如图，在需要位置插入
 
-![image-20250910123545329](https://t.zpea.cn/i/2025/image-20250910123545329.png)
+![image-20250910123545329](https://img.mailberry.com.cn/i/2025/image-20250910123545329.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 成品后和效果看头图
 

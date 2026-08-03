@@ -4,7 +4,7 @@ categories: 住宅IP
 tags: ['家宽，住宅']
 id: "24551f67f12ab55e"
 date: 2025-12-02 13:56:49
-cover: "https://t.zpea.cn/i/2025/image-20251202113911675_1.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20251202113911675.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
@@ -29,7 +29,7 @@ https://www.webshare.io/?referral_code=xsf80slsto9f
 
 把在[webshare](https://www.webshare.io/?referral_code=xsf80slsto9f)平台拿到的socks信息，如图填写到相关位置
 
-![image-20251202113911675](https://t.zpea.cn/i/2025/image-20251202113911675_1.png)
+![image-20251202113911675](https://img.mailberry.com.cn/i/2025/image-20251202113911675.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 **重点**注意一下，标签后面会用到
 
@@ -37,18 +37,18 @@ https://www.webshare.io/?referral_code=xsf80slsto9f
 
 和上面的差不多
 
-![image-20251202114344550](https://t.zpea.cn/i/2025/image-20251202114344550.png)
+![image-20251202114344550](https://img.mailberry.com.cn/i/2025/image-20251202114344550.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 1. **Inbound Tags 选择已有的正常节点，我选择Rea1ity (1是L，故意写错)**
 2. **Outbound Tag 选择第一步中写的“标签”名，我的是soscktest**
 
 第三步，添加 **添加客户端**
 
-![image-20251202114725381](https://t.zpea.cn/i/2025/image-20251202114725381.png)
+![image-20251202114725381](https://img.mailberry.com.cn/i/2025/image-20251202114725381.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 在入站列表——选择已有的节点，添加客户端，目的是实现不同用户使用不同的IP
 
-![image-20251202114921617](https://t.zpea.cn/i/2025/image-20251202114921617.png)
+![image-20251202114921617](https://img.mailberry.com.cn/i/2025/image-20251202114921617.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 电子邮件用上面相同的标签
 
@@ -60,13 +60,13 @@ https://www.webshare.io/?referral_code=xsf80slsto9f
 
 
 
-![image-20251202131049044](https://t.zpea.cn/i/2025/image-20251202131049044.png)
+![image-20251202131049044](https://img.mailberry.com.cn/i/2025/image-20251202131049044.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 可以看到套了延时更低了
 
 **动图检测**
 
-![20251202_120706](https://t.zpea.cn/i/2025/20251202_120706.webp)
+![20251202_120706](https://img.mailberry.com.cn/i/2025/20251202_120706.webp)
 
 ## 总结
 

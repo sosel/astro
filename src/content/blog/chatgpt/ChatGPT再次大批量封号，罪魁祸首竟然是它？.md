@@ -4,7 +4,7 @@ id: "chatgpt again"
 date: 2025-08-27 17:15:50
 categories: "chatgpt"
 tags: ["ChatGPT", "封号", "IP"]
-cover: "https://oss.mailberry.com.cn/picgo/2023/03/image-20230529125728565.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
+cover: "https://img.mailberry.com.cn/picgo/2023/03/image-20230529125728565.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -17,7 +17,7 @@ top: false
 
 
 
-![image-20230529125728565](https://oss.mailberry.com.cn/picgo/2023/03/image-20230529125728565.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230529125728565](https://img.mailberry.com.cn/picgo/2023/03/image-20230529125728565.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 收到这个邮件的，估计都心要凉凉了，这就是封号通知邮件，退款并取消您的订阅，还有一个要封号处理，没写在邮件上。
 
@@ -27,7 +27,7 @@ top: false
 
 摘要一部分群友的聊天记录，从记录来看，都是因为使用了Depay，从而导致的封号
 
-![image-20230529130126985](https://oss.mailberry.com.cn/picgo/2023/03/image-20230529130126985.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230529130126985](https://img.mailberry.com.cn/picgo/2023/03/image-20230529130126985.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 前段时间，Depay就开始出现银行卡脖子事件了，官方出的通知如下：
 
@@ -37,11 +37,11 @@ top: false
 
 
 
-![image-20230529130254244](https://oss.mailberry.com.cn/picgo/2023/03/image-20230529130254244.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230529130254244](https://img.mailberry.com.cn/picgo/2023/03/image-20230529130254244.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 也有用户给Openai发了邮件 了，回复说是使用了Proxy造成的
 
-![mmexport1685175885913](https://oss.mailberry.com.cn/picgo/2023/03/mmexport1685175885913.jpg?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![mmexport1685175885913](https://img.mailberry.com.cn/picgo/2023/03/mmexport1685175885913.jpg?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 **主要原因分析**
 

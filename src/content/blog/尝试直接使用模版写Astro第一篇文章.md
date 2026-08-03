@@ -4,7 +4,7 @@ categories: 分类
 tags: ['Astro']
 id: "34f65492e7d40eec"
 date: 2025-08-29 16:47:40
-cover: "https://t.zpea.cn/i/2025/1756460455630.png"
+cover: "https://img.mailberry.com.cn/i/2025/1756460455630.png"
 ---
 
 :::note
@@ -15,9 +15,9 @@ cover: "https://t.zpea.cn/i/2025/1756460455630.png"
 
 ::btn[按钮]{link="链接" type="info"}
 我显示一个现在状态的图片
-![1756460455630.png](https://t.zpea.cn/i/2025/1756460455630.png)
+![1756460455630.png](https://img.mailberry.com.cn/i/2025/1756460455630.png)
 ## 建站
 只要纯静态就可以
-![1756460520365.png](https://t.zpea.cn/i/2025/1756460520365.png)
+![1756460520365.png](https://img.mailberry.com.cn/i/2025/1756460520365.png)
 ## 上传dist文件
 只要构建好，把dist同步到站点目录，就可以了

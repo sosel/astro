@@ -4,7 +4,7 @@ id: "chatgpt qustions"
 date: 2025-08-27 17:15:50
 categories: "chatgpt"
 tags: ["GPT", "ChatGPT", "汇总"]
-cover: "https://oss.mailberry.com.cn/picgo/2023/03/image-20230321141623694.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
+cover: "https://img.mailberry.com.cn/picgo/2023/03/image-20230321141623694.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -19,7 +19,7 @@ ChatGPT的好用，无需我多言了，但不好用（环境），也是同学�
 
 这个一般是在验证的手机号的时时候，提示的是
 
-![image-20230321141623694](https://oss.mailberry.com.cn/picgo/2023/03/image-20230321141623694.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230321141623694](https://img.mailberry.com.cn/picgo/2023/03/image-20230321141623694.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 > 不支持与此手机关联的运营商寻求帮助，请通过我们的帮助中心 help openai com 与我们联系
 
@@ -34,7 +34,7 @@ working to restore this feature.
 
 这个是ChatGPT的服务器压力太大造成，这个暂时只能等对方恢复，有时候Plus都同样用不了的情况
 
-![image-20230321142818255](https://oss.mailberry.com.cn/picgo/2023/03/image-20230321142818255.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230321142818255](https://img.mailberry.com.cn/picgo/2023/03/image-20230321142818255.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 > 我们继续推出ChatGPT服务的恢复工作。目前，用户无法检索对话历史。我们正在努力恢复这一功能。
 
@@ -56,13 +56,13 @@ working to restore this feature.
 
 
 
-![image-20230321161022658](https://oss.mailberry.com.cn/picgo/2023/03/image-20230321161022658.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230321161022658](https://img.mailberry.com.cn/picgo/2023/03/image-20230321161022658.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 > 我们检到可疑的登录行为，进一步的尝试将被阻止。请联系管理员。
 
 7，You've made too many phone verification requests. Please try again later or contact us through our help center at help.openai.com.
 
-![image-20230323115302066](https://oss.mailberry.com.cn/picgo/2023/03/image-20230323115302066.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230323115302066](https://img.mailberry.com.cn/picgo/2023/03/image-20230323115302066.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 > 您提出的电话验证请求过多。请稍后重试或通过我们的帮助中心 help.openai.com 与我们联系。
 
@@ -80,7 +80,7 @@ We ran into an issue while authenticating you. If this issue persists, please co
 
 这个是身份验证问题。检测到浏览行为时，没有完整验证，这个未给出明确错误代码，跟不支持你国家的提示一样，Oops，一般都是你的IP不干净，很多机场的节点就是这样子，多人用了，就会提示这个。
 
-![image-20230324100837321](https://oss.mailberry.com.cn/picgo/2023/03/image-20230324100837321.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230324100837321](https://img.mailberry.com.cn/picgo/2023/03/image-20230324100837321.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 > 哎呀!
 > 我们在认证你的时候遇到了一个问题。如果这个问题持续存在，请通过我们的帮助中心help.openai.com联系我们。
@@ -91,7 +91,7 @@ We ran into an issue while authenticating you. If this issue persists, please co
 
 
 
-![image-20230327100418204](https://oss.mailberry.com.cn/picgo/2023/03/image-20230327100418204.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230327100418204](https://img.mailberry.com.cn/picgo/2023/03/image-20230327100418204.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 > 如果此问题仍然存在，请通过我们的帮助中心 help openai com 联系我们
 
@@ -99,7 +99,7 @@ We ran into an issue while authenticating you. If this issue persists, please co
 
 这个问题是注册的时候，提示一个小时后再试。这个可以找IP，换邮箱再试试。
 
-![image-20230330211037457](https://oss.mailberry.com.cn/picgo/2023/03/image-20230330211037457.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230330211037457](https://img.mailberry.com.cn/picgo/2023/03/image-20230330211037457.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 > 暂时无法注册，请一小时后再回来查看
 
@@ -107,7 +107,7 @@ We ran into an issue while authenticating you. If this issue persists, please co
 
 这个是检测到你的号码有类似的行为，基本上就是类号码已被风控了，只能换国家电话号码了。
 
-![image-20230401104300797](https://oss.mailberry.com.cn/picgo/2023/02/image-20230401104300797.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230401104300797](https://img.mailberry.com.cn/picgo/2023/02/image-20230401104300797.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 > 我们从与您相似的电话号码中检测到可疑行为，请稍后重试或通过我们的帮助中心 help openai com 与我们联系
 
@@ -115,14 +115,14 @@ We ran into an issue while authenticating you. If this issue persists, please co
 
 4月1日，起，已经很多账号不让注册了，就连continue with mirocsoft account 也不让注册了
 
-![image-20230402154119344](https://oss.mailberry.com.cn/picgo/2023/04/home/image-20230402154119344.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230402154119344](https://img.mailberry.com.cn/picgo/2023/04/home/image-20230402154119344.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 > 注册目前不可用，请稍后再试。
 > 目前无法注册，请稍后再试。
 > 当前无法注册，请稍后再试。
 > 目前无法登录，请稍后再试。
 
-![image-20230402154439450](https://oss.mailberry.com.cn/picgo/2023/04/home/image-20230402154439450.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230402154439450](https://img.mailberry.com.cn/picgo/2023/04/home/image-20230402154439450.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 可能微软账号注册ChatGPT 也凉凉了。
 
@@ -170,7 +170,7 @@ Please try signing in again using the same credentials.
 
 这个是限制了关联的运营商，也就是说，这些接码平台里的号码段被ChatGPT拉黑了。
 
-![image-20230413090046247](https://oss.mailberry.com.cn/picgo/2023/03/image-20230413090046247.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230413090046247](https://img.mailberry.com.cn/picgo/2023/03/image-20230413090046247.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 > 不支持与此手机关联的运营商寻求帮助，请通过我们的帮助中心 help openai com 与我们联系
 >
@@ -180,7 +180,7 @@ Return to homepage
 
 这个是邮箱不支持的提示
 
-![image-20230413214925685](https://oss.mailberry.com.cn/picgo/2023/03/image-20230413214925685.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230413214925685](https://img.mailberry.com.cn/picgo/2023/03/image-20230413214925685.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 > 哎呀
 > 不支持您提供的电子邮件 。请通过我们的帮助中心联系我们
@@ -189,7 +189,7 @@ Return to homepage
 
 这个提示是号码链接验证达到了最大的数量，换号码可以解决。
 
-![image-20230416130855513](https://oss.mailberry.com.cn/picgo/2023/02/image-20230416130855513.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230416130855513](https://img.mailberry.com.cn/picgo/2023/02/image-20230416130855513.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 > 此电话号码已链接到最大数量的帐户
 
@@ -197,7 +197,7 @@ Return to homepage
 
 这个一般是使用了谷歌第三方账号登录，又改用直接登录所至，造成验证不统一
 
-![89da369690b41f884df9554c96988b1](https://oss.mailberry.com.cn/picgo/2023/02/89da369690b41f884df9554c96988b1.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![89da369690b41f884df9554c96988b1](https://img.mailberry.com.cn/picgo/2023/02/89da369690b41f884df9554c96988b1.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 > 您尝试使用与注册时使用的不同的身份验证方法登录，请使用您的原始身份验证方法重试
 
@@ -205,7 +205,7 @@ Return to homepage
 
 这个一般是限制了，现在提前一步限制了，不等到手机号那一步，可以减少你的尝试，可换IP再试
 
-![image-20230425190830706](https://oss.mailberry.com.cn/picgo/2023/02/image-20230425190830706.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230425190830706](https://img.mailberry.com.cn/picgo/2023/02/image-20230425190830706.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 > 糟糕，授权码无效，如果此问题仍然存在，请通过我们的帮助中心与我们联系
 
@@ -213,7 +213,7 @@ Return to homepage
 
 这个是内部网络错误，一般是网络繁忙引起的，可以过一段时间再试试
 
-![image-20230425201759492](https://oss.mailberry.com.cn/picgo/2023/02/image-20230425201759492.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230425201759492](https://img.mailberry.com.cn/picgo/2023/02/image-20230425201759492.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 > 糟糕 内部错误 请通过我们的帮助中心联系我们 如果此问题仍然存在
 
@@ -221,7 +221,7 @@ Return to homepage
 
 这个是在输入验证码的时候提示，不要慌，并不是验证码无效，是复制的字符串类型不对，删除后，手动输入验证码就能通过了
 
-![](https://oss.mailberry.com.cn/picgo/2023/03/image-20230504104903861.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![](https://img.mailberry.com.cn/picgo/2023/03/image-20230504104903861.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 > none_不是字符串类型的_arkose_标记
 
@@ -229,7 +229,7 @@ Return to homepage
 
 这个是IP被办了，换IP有解决，不是封号，不要紧张
 
-![image-20230504105611324](https://oss.mailberry.com.cn/picgo/2023/03/image-20230504105611324.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230504105611324](https://img.mailberry.com.cn/picgo/2023/03/image-20230504105611324.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 > 抱歉你被屏蔽了
 
@@ -237,26 +237,26 @@ Return to homepage
 
 这个如果是Openai的新政策，那就有点使坏了，让你接到码，才不给你认证，让你付出了接码费用，又不给你进去。只能换IP再试试了，现在试错成本越来越高了。
 
-![](https://oss.mailberry.com.cn/picgo/2023/02/image-20230506121754761.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![](https://img.mailberry.com.cn/picgo/2023/02/image-20230506121754761.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 28，We couldn't verify your phone number error=enforcement failed).If this issue persists please contact us through our help
 center at help.openai.com..
 
 这个是接码平台的号码被标记为不能验证了，换个平台的，测试成功。这就是检测号码了，比27的还好点，至少不产生费用。
 
-![image-20230506123154934](https://oss.mailberry.com.cn/picgo/2023/02/image-20230506123154934.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230506123154934](https://img.mailberry.com.cn/picgo/2023/02/image-20230506123154934.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 29，It looks like this is a premium phone number. Please provide a valid, non-premium phone number to continue.
 
 看起来这是付费电话号码 请提供有效的非付费电话号码以继续,这个换个号码可以解决。
 
-![image-20230510221613520](https://oss.mailberry.com.cn/picgo/2023/02/image-20230510221613520.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230510221613520](https://img.mailberry.com.cn/picgo/2023/02/image-20230510221613520.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 30，Our systems have detected unusual activity from your system.Please try again later.
 
 这个有可能是检测到你的手机有号码有异常行为，从而限制了发送手机验证码，可以换个平台或者国家手机号试试
 
-![Our systems have detected unusual activity from your system](https://oss.mailberry.com.cn/picgo/2023/03/image-20230531151544470.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![Our systems have detected unusual activity from your system](https://img.mailberry.com.cn/picgo/2023/03/image-20230531151544470.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 我们的系统从您的系统检测到异常活动
 请稍后重试
@@ -267,7 +267,7 @@ center at help.openai.com..
 
 2023年7月11晚的时候，很多用户都遇到这个问题，很多用户都以为被封号了，其实这个只是暂时屏蔽了你的IP，昨晚应该是GPT服务升级。暂时一大片用户用不了，今天已恢复
 
-![image-20230712104352593](https://oss.mailberry.com.cn/picgo/2023/03/image-20230712104352593.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230712104352593](https://img.mailberry.com.cn/picgo/2023/03/image-20230712104352593.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 32，待续
 
@@ -277,7 +277,7 @@ center at help.openai.com..
 
 微信群：
 
-![image-20230504114407438](https://oss.mailberry.com.cn/picgo/2023/03/image-20230504114407438.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230504114407438](https://img.mailberry.com.cn/picgo/2023/03/image-20230504114407438.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 如果群组二维码过期了，未及时更新
 

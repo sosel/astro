@@ -4,7 +4,7 @@ categories: 教程
 tags: ['Reality']
 id: "ee1857fe273efd08"
 date: 2025-12-05 16:19:08
-cover: "https://t.zpea.cn/i/2025/image-20251205153421407.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20251205153421407.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
@@ -121,11 +121,11 @@ printf '+----------------+---------+---------+---------+-----+-----+-----+-----+
 
 **效果**
 
-![image-20251205150324126](https://t.zpea.cn/i/2025/image-20251205150324126_1.png)
+![image-20251205150324126](https://img.mailberry.com.cn/i/2025/image-20251205150324126.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 挑好心仪域名，再在服务上Ping一样
 
-![image-20251205153421407](https://t.zpea.cn/i/2025/image-20251205153421407.png)
+![image-20251205153421407](https://img.mailberry.com.cn/i/2025/image-20251205153421407.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 握手延时，和Ping延时都不错，就它了
 
@@ -141,7 +141,7 @@ printf '+----------------+---------+---------+---------+-----+-----+-----+-----+
 
 **效果**
 
-![image-20251205152058901](https://t.zpea.cn/i/2025/image-20251205152058901.png)
+![image-20251205152058901](https://img.mailberry.com.cn/i/2025/image-20251205152058901.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 比如我搜到搬瓦工服务器相邻的这个域名就不错，而且比较冷门，当然也可以批量查询，自己看作者GITHUB说明吧，不重复描述了
 

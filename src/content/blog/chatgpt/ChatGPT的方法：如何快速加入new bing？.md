@@ -4,7 +4,7 @@ id: "chatgpt-new-bing"
 date: 2025-08-27 17:15:50
 categories: "chatgpt"
 tags: ["NewBing", "Ai", "chat"]
-cover: "https://oss.mailberry.com.cn/picgo/2023/01/image-20230220124432920.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
+cover: "https://img.mailberry.com.cn/picgo/2023/01/image-20230220124432920.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -23,11 +23,11 @@ top: false
 
 请注意，加入 New Bing 计划可能需要一些时间才能生效。一旦您加入了计划，您将有机会体验 Bing 的新功能和体验，以及为 Bing 的未来发展提供反馈和建议。
 
-![image-20230220124432920](https://oss.mailberry.com.cn/picgo/2023/01/image-20230220124432920.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230220124432920](https://img.mailberry.com.cn/picgo/2023/01/image-20230220124432920.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 很多群友都是四天就接到体验邮箱通知了
 
-![image-20230220133051626](https://oss.mailberry.com.cn/picgo/2023/01/image-20230220133051626.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230220133051626](https://img.mailberry.com.cn/picgo/2023/01/image-20230220133051626.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ## 指引
 
@@ -44,7 +44,7 @@ top: false
 
 位置：https://techcommunity.microsoft.com/t5/bing-insiders/ct-p/Bing
 
-![image-20230220125557380](https://oss.mailberry.com.cn/picgo/2023/01/image-20230220125557380.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230220125557380](https://img.mailberry.com.cn/picgo/2023/01/image-20230220125557380.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 其它insider：
 

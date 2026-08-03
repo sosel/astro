@@ -4,7 +4,7 @@ categories: chatgpt
 tags: ["gpt,plus"]
 id: "plus-1-month-free"
 date: 2025-10-14 17:18:18
-cover: "https://t.zpea.cn/i/2025/image-20251014172449009.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20251014172449009.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -13,7 +13,7 @@ top: false
 现在ChatGPT 又推出了部分账号**特别优惠**活动，可以0美元体验一个ChatGPT Plus会员权益，支持高级推理功能的GPT-5，而且可以随时取消订阅，等于可以白嫖一个月免费的Plus,活动如圖。
 :::
 
-![image-20251014172449009](https://t.zpea.cn/i/2025/image-20251014172449009.png)
+![image-20251014172449009](https://img.mailberry.com.cn/i/2025/image-20251014172449009.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ## 条件
 
@@ -21,7 +21,7 @@ top: false
 
 可以点上圖中的**试用Plus**
 
-![image-20251014165459242](https://t.zpea.cn/i/2025/image-20251014165459242.png)
+![image-20251014165459242](https://img.mailberry.com.cn/i/2025/image-20251014165459242.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 或者点上面的**免费升级**
 
@@ -29,17 +29,17 @@ top: false
 
 点击**免费升级**来到如套餐选择，默认可能会跳转到**Business**,这里需要手动选择回**个人**
 
-![image-20251014170413420](https://t.zpea.cn/i/2025/image-20251014170413420.png)
+![image-20251014170413420](https://img.mailberry.com.cn/i/2025/image-20251014170413420.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 点**个人**后就可以看到Plus套餐了
 
-![image-20251014170527914](https://t.zpea.cn/i/2025/image-20251014170527914.png)
+![image-20251014170527914](https://img.mailberry.com.cn/i/2025/image-20251014170527914.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 选择Plus后，点**获取 Plus**
 
 
 
-![image-20251014164612531](https://t.zpea.cn/i/2025/image-20251014164612531.png)
+![image-20251014164612531](https://img.mailberry.com.cn/i/2025/image-20251014164612531.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 输入付款方式，如果还没有卡的同学，可以参考这里《[Roogoo虚拟卡限时福利 + 开卡返现1U](https://mailberry.com.cn/2025/09/roogoo-free-credit-card/)》，我使用它《[成功使用虚拟卡0元开了一台GPT Business(Team)套餐](https://mailberry.com.cn/2025/10/subscribe-gpt-business-team-with-roogoo/)》,如果不想看兩文章，直达注册地址：
 

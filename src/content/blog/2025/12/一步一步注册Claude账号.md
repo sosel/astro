@@ -4,13 +4,13 @@ categories: 分类Ai
 tags: ['Claude']
 id: "4403da538704c19c"
 date: 2025-12-23 17:26:27
-cover: "https://t.zpea.cn/i/2025/image-20251223165025753.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20251223165025753.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
 今天收到一位前GPT Plus用户的消息，问能不能注册Claude账号，我印象中注册应该挺简单的呀，原来Claude现在注册还要验证手机号，今天就帮这位朋友注册过程记录下来，分享给有需要的朋友。
 :::
-![image-20251223164918995](https://t.zpea.cn/i/2025/image-20251223164918995.png)
+![image-20251223164918995](https://img.mailberry.com.cn/i/2025/image-20251223164918995.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ## 注册
 
@@ -22,7 +22,7 @@ cover: "https://t.zpea.cn/i/2025/image-20251223165025753.png"
 
 
 
-![image-20251223165025753](https://t.zpea.cn/i/2025/image-20251223165025753.png)
+![image-20251223165025753](https://img.mailberry.com.cn/i/2025/image-20251223165025753.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 第二步，**邮箱验证码**
 
@@ -41,7 +41,7 @@ cover: "https://t.zpea.cn/i/2025/image-20251223165025753.png"
 
 注册账号充值不在本文介绍了，可以通过支付宝或者微信充值
 
-![image-20260107120313471](https://t.zpea.cn/i/2026/image-20260107120313471.png)
+![image-20260107120313471](https://img.mailberry.com.cn/i/2026/image-20260107120313471.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 1. 搜索项目`claude`
 2. 国家筛选，使用美国IP，就搜索`USA` ,我直接用最便宜的0.05$
@@ -49,17 +49,17 @@ cover: "https://t.zpea.cn/i/2025/image-20251223165025753.png"
 4. 复制号码 ——回到 **第三步**粘贴上号码
 5. 等待验证码
 
-![image-20260107120444166](https://t.zpea.cn/i/2026/image-20260107120444166.png)
+![image-20260107120444166](https://img.mailberry.com.cn/i/2026/image-20260107120444166.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 第五步，**手机验证码**
 
-![image-20260107120507671](https://t.zpea.cn/i/2026/image-20260107120507671.png)
+![image-20260107120507671](https://img.mailberry.com.cn/i/2026/image-20260107120507671.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 把第四步第五小步拿到验证码填写上去
 
 第六步，**选择套餐**
 
-![image-20251223170544332](https://t.zpea.cn/i/2025/image-20251223170544332.png)
+![image-20251223170544332](https://img.mailberry.com.cn/i/2025/image-20251223170544332.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 完成验证，注册成功
 

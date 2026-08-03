@@ -4,7 +4,7 @@ categories: "服务器"
 tags: ["甲骨文"]
 id: "oracle-change-ip"
 date: 2025-09-30 17:18:18
-cover: "https://t.zpea.cn/i/2025/image-20250930172637804.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20250930172637804.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -18,23 +18,23 @@ top: false
 
 一般人使用的都是这个，说是临时，其实你自己不释放，也是一直可以使用的，只是相对于预留IP，它更灵活，同时它也能变预留，一般要更换IP都是更换临时的
 
-![image-20250930171423565](https://t.zpea.cn/i/2025/image-20250930171423565.png)
+![image-20250930171423565](https://img.mailberry.com.cn/i/2025/image-20250930171423565.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 第一步，实例——进入实例详情——网络——下拉“附加的VNIC”
 
-![image-20250930171715603](https://t.zpea.cn/i/2025/image-20250930171715603.png)
+![image-20250930171715603](https://img.mailberry.com.cn/i/2025/image-20250930171715603.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 第二步，点击名称进入VNIC详情
 
-![image-20250930171922738](https://t.zpea.cn/i/2025/image-20250930171922738.png)
+![image-20250930171922738](https://img.mailberry.com.cn/i/2025/image-20250930171922738.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 第三步，IP管理——`...`——编辑
 
-![image-20250930172101832](https://t.zpea.cn/i/2025/image-20250930172101832.png)
+![image-20250930172101832](https://img.mailberry.com.cn/i/2025/image-20250930172101832.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 第三步，先改1——没有公共IP——更新；接着改2——临时公网IP——更新
 
-![image-20250930172637804](https://t.zpea.cn/i/2025/image-20250930172637804.png)
+![image-20250930172637804](https://img.mailberry.com.cn/i/2025/image-20250930172637804.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 至此，就会更换到一个新的IP了
 
@@ -42,7 +42,7 @@ top: false
 
 在同样的位置，可以选择选择预留IP
 
-![image-20250930172320788](https://t.zpea.cn/i/2025/image-20250930172320788.png)
+![image-20250930172320788](https://img.mailberry.com.cn/i/2025/image-20250930172320788.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 不过留意IP要附加到实例上，不然会产生闲置费，博主觉得没有保留IP的必要，就不展开写了
 

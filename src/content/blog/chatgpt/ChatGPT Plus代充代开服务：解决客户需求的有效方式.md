@@ -4,7 +4,7 @@ id: "chatgpt-plus-server"
 date: 2025-08-27 17:15:50
 categories: "chatgpt"
 tags: ["GPT", "Plus", "代充"]
-cover: "https://oss.mailberry.com.cn/picgo/2023/03/image-20230328123526696.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
+cover: "https://img.mailberry.com.cn/picgo/2023/03/image-20230328123526696.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -17,13 +17,13 @@ top: false
 
 一种有自己的信用卡，但是信用卡被拒了，一种是自己根本就没有卡的，但是最终的需求都是要开通Plus。看到网上了，收费还不便宜哟。
 
-![image-20230328123526696](https://oss.mailberry.com.cn/picgo/2023/03/image-20230328123526696.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230328123526696](https://img.mailberry.com.cn/picgo/2023/03/image-20230328123526696.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ### 有卡
 
 这种很多，都辛辛苦苦注册完了虚拟信用卡，想尽办法弄到了USDT，如何获取USDT，可以参考我另一文《[Depay虚拟信用卡多种方式获得USDT，解决开卡激活问题，可代充](https://mailberry.com.cn/2023/03/depay-to-get-usdt/)》，但是到最后临门一脚的时候，被守门员给拦截下来了——被拒绝了
 
-![image-20230328123004735](https://oss.mailberry.com.cn/picgo/2023/03/image-20230328123004735.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230328123004735](https://img.mailberry.com.cn/picgo/2023/03/image-20230328123004735.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 **您的信用卡已被拒绝，请尝试使用借记卡付款**
 
@@ -51,7 +51,7 @@ Your credit card has been declined. Please try paying with a debit card.
 
 二:使用了Nobepay，代劳成功
 
-![image-20230402215953271](https://oss.mailberry.com.cn/picgo/2023/04/home/image-20230402215953271.png?x-oss-process=image/watermark,text_TWFpbEJlcnJ5LmNvbS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20230402215953271](https://img.mailberry.com.cn/picgo/2023/04/home/image-20230402215953271.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 感谢老板的打赏，自己试掉了一百多，现在开个订阅太难了。[/捂脸]
 

@@ -5,12 +5,17 @@ export default {
   // 注意：图片请用 vh-img-flex 类包裹
   data: [
     {
+    "date":"2026年6月9日11:13:10",
+    "tags":["騒"],
+    "content":"今天仓库搬了，以后没有独立办公室了"
+    },
+    {
       "date": "2025-02-12 19:36:16",
       "tags": [
         "树",
         "夕阳"
       ],
-      "content": "好美🌲<p class=\"vh-img-flex\"><img src=\"https://i0.wp.com/shp.qpic.cn/collector/1655466387/937ec070-8448-4c7b-9c8b-abd41ce892cb/0\"></p>"
+      "content": "好美🌲<p class=\"vh-img-flex\"><img src=\"https://img.mailberry.com.cn/i/2026/640.webp\"></p>"
     },
     {
       "date": "2024-10-08 18:18:18",

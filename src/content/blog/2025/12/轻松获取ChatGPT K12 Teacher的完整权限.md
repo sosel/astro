@@ -4,13 +4,13 @@ categories: Ai
 tags: ['GPT']
 id: "aca873b26b2bbacd"
 date: 2025-12-15 12:03:15
-cover: "https://t.zpea.cn/i/2025/image-20251215110548353.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20251215110548353.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
 现在Openai推出了比Team更给力的最新老师福利——ChatGPT K12 Teacher。其中的 "K12" 指的是针对**学前至高中阶段**的教师支持和功能。意味着教师可以在教学过程中利用 ChatGPT 来支持和增强他们的教学，比如通过帮助制定课程方案、解答学生问题、提供教学资源等。
 :::
-![image-20251215110548353](https://t.zpea.cn/i/2025/image-20251215110548353.png)
+![image-20251215110548353](https://img.mailberry.com.cn/i/2025/image-20251215110548353.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 # 文字教学
 
@@ -26,7 +26,7 @@ cover: "https://t.zpea.cn/i/2025/image-20251215110548353.png"
 
 打开：https://mail.autoxi.me
 
-![image-20251215111900029](https://t.zpea.cn/i/2025/image-20251215111900029.png)
+![image-20251215111900029](https://img.mailberry.com.cn/i/2025/image-20251215111900029.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 点“**创建账号**” ，输入用户名和密码（两次），并使用注册码pkoa888
 
@@ -38,7 +38,7 @@ cover: "https://t.zpea.cn/i/2025/image-20251215110548353.png"
 
 使用第一步注册的邮箱创建一个GPT账号
 
-![image-20251215112217711](https://t.zpea.cn/i/2025/image-20251215112217711.png)
+![image-20251215112217711](https://img.mailberry.com.cn/i/2025/image-20251215112217711.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 **继续** 会要求输入验证码，第一步邮箱里查看； 完成GPT用户名和生日就能注册成功了
 

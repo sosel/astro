@@ -4,13 +4,13 @@ categories: Ai
 tags: ['GPT,teacher']
 id: "f5b6b5a2969b39af"
 date: 2025-12-15 13:30:02
-cover: "https://t.zpea.cn/i/2025/image-20251215131106418.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20251215131106418.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
 书接上一回《[轻松获取ChatGPT K12 Teacher的完整权限！](https://zpea.cn/article/aca873b26b2bbacd)》，很多同学反映没办法使用了，邮箱登录不上去，提示KV无法使用了，马上补上一个方法——SSO授权法，这方法不需要用到邮箱地址，只要登录平台，以第三方授权登录GPT就可以了。
 
-![image-20251215131310711](https://t.zpea.cn/i/2025/image-20251215131310711.png)
+![image-20251215131310711](https://img.mailberry.com.cn/i/2025/image-20251215131310711.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 # 注册SSO
 
@@ -18,17 +18,17 @@ cover: "https://t.zpea.cn/i/2025/image-20251215131106418.png"
 
 打开：https://pkoa.autoxi.me/ 注册一个账号
 
-![image-20251215130632596](https://t.zpea.cn/i/2025/image-20251215130632596.png)
+![image-20251215130632596](https://img.mailberry.com.cn/i/2025/image-20251215130632596.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 注册还是：**pkoa888**
 
 第二步，登录平台
 
-![image-20251215130716002](https://t.zpea.cn/i/2025/image-20251215130716002.png)
+![image-20251215130716002](https://img.mailberry.com.cn/i/2025/image-20251215130716002.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 登录后可以看到平台有一个GPT授权应用
 
-![image-20251215130746238](https://t.zpea.cn/i/2025/image-20251215130746238.png)
+![image-20251215130746238](https://img.mailberry.com.cn/i/2025/image-20251215130746238.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 以前是公益TEAM，还没改过名字来，现在通过些应用登录的是：**ChatGPT K12 Teacher**
 
@@ -36,17 +36,17 @@ cover: "https://t.zpea.cn/i/2025/image-20251215131106418.png"
 
 点击“立即启用” 跳转到GPT，也可以直接在同一浏览器下直接打开GPT官网https://auth.openai.com/sso
 
-![image-20251215131024421](https://t.zpea.cn/i/2025/image-20251215131024421.png)
+![image-20251215131024421](https://img.mailberry.com.cn/i/2025/image-20251215131024421.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 输入第一步时创建的账号
 
-![image-20251215131106418](https://t.zpea.cn/i/2025/image-20251215131106418.png)
+![image-20251215131106418](https://img.mailberry.com.cn/i/2025/image-20251215131106418.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 直接点这个授权登录便可以
 
 第四步，享用GPT5.2吧
 
-![image-20251215131230118](https://t.zpea.cn/i/2025/image-20251215131230118.png)
+![image-20251215131230118](https://img.mailberry.com.cn/i/2025/image-20251215131230118.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 # 总结
 

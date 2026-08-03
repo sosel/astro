@@ -4,7 +4,7 @@ id: "chathub-chatgpt-claude-gemini-ai"
 date: 2025-08-27 17:15:50
 categories: "chatgpt"
 tags: ["ChatHub", "Hub", "GPT"]
-cover: "https://oss.mailberry.com.cn/picgo/2024/04/image-20240919163118247.png?x-oss-process=image/watermark,text_NGk1aS5jb20,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
+cover: "https://img.mailberry.com.cn/picgo/2024/04/image-20240919163118247.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -17,11 +17,11 @@ top: false
 
 直接安装Chrome插件，就可以使用了
 
-![image-20240919163118247](https://oss.mailberry.com.cn/picgo/2024/04/image-20240919163118247.png?x-oss-process=image/watermark,text_NGk1aS5jb20,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20240919163118247](https://img.mailberry.com.cn/picgo/2024/04/image-20240919163118247.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 支持很多AI
 
-![image-20240919163425827](https://oss.mailberry.com.cn/picgo/2024/04/image-20240919163425827.png?x-oss-process=image/watermark,text_NGk1aS5jb20,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
+![image-20240919163425827](https://img.mailberry.com.cn/picgo/2024/04/image-20240919163425827.png?x-oss-process=image/watermark,text_WnBlYS5jbg,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ## 官网地址
 

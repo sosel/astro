@@ -135,13 +135,13 @@ export default {
 	// api 为空则使用 data 静态数据
 	data: [
 		{
-			name: "韩小韩博客",
-			link: "https://www.vvhan.com",
+			name: "碗豆博客",
+			link: "https://www.zpea.cn",
 			avatar: "https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640",
 			descr: "运气是计划之外的东西."
 		},
 		{
-			name: "韩小韩API",
+			name: "碗豆API",
 			link: "https://api.vvhan.com",
 			avatar: "https://api.vvhan.com/static/images/logo.webp",
 			descr: "免费Web API数据接口调用服务平台."
@@ -163,7 +163,7 @@ export default {
 		{
 			date: "2025-02-12 19:36:16",
 			tags: ["树", "夕阳"],
-			content: '好美🌲<p class="vh-img-flex"><img src="https://i0.wp.com/shp.qpic.cn/collector/1655466387/937ec070-8448-4c7b-9c8b-abd41ce892cb/0"></p>'
+			content: '好美🌲<p class="vh-img-flex"><img src="https://"></p>'
 		},
 		{
 			date: "2024-10-05 16:16:06",
@@ -185,21 +185,21 @@ export default {
   data: [
     {
       "title": "Astro 中使用 Lenis 增加鼠标滚动阻尼感",
-      "auther": "韩小韩博客",
+      "auther": "碗豆博客",
       "date": "2025-03-06",
       "link": "https://www.vvhan.com/article/Lenis-in-Astro",
       "content": "在移动端触控交互中，惯性滚动带来的丝滑体验已成为标配，但鼠标滚轮受限于机械结构，滚动时难免产生生硬的段落感。如何让传统滚轮操作也能获得如触控板般的阻尼反馈？Lenis库通过JavaScript模拟惯性算法，成功将”物理惯性”引入网页滚动，本文将解析其实现原理与实战应用。"
     },
     {
       "title": "Astro 添加 Twikoo 评论组件",
-      "auther": "韩小韩博客",
+      "auther": "碗豆博客",
       "date": "2025-03-03",
       "link": "https://www.vvhan.com/article/astro-twikoo",
       "content": "Astro在使用视图过渡路由时，在跳转路由时，会导致JS文件只有在第一次进入页面时生效，所以Astro在使用视图过渡路由下Twikoo时无法正常使用的，我是单独写了一个评论组件，对Twikoo进行动态加载，然后在需要评论的页面引入的。"
     },
     {
       "title": "Astro主题-优雅的vhAstro-Theme【使用文档】",
-      "auther": "韩小韩博客",
+      "auther": "碗豆博客",
       "date": "2025-03-02",
       "link": "https://www.vvhan.com/article/astro-theme-vhastro-theme",
       "content": "🥝从Z-Blog到Emlog，从Typecho到Hexo，从动态博客到静态博客，作为一个前端，我深入了解了多种SSG工具，如Hexo、Vitepress、Hugo等，并最终锁定了Astro作为重构博客的选择。🍇Astro活跃的社区支持、广泛的现代框架兼容性、高效的性能优化、优秀的开发体验。"
@@ -278,15 +278,15 @@ comment: false # 关闭页面评论（默认开启）
 ```js
 export default {
   // 网站标题
-  Title: '韩小韩博客',
+  Title: '碗豆博客',
   // 网站地址
   Site: 'https://www.vvhan.com',
   // 网站副标题
   Subtitle: '不曾与你分享的时间,我在进步.',
   // 网站描述
-  Description: '韩小韩博客 专注于前开发与相关技术的实战分享，涵盖Vue框架、Node.js、Serverless等，并涉及Node、Python、Linux、Docker等领域。同时，博客也分享作者的生活、音乐和旅行的热爱。',
+  Description: '碗豆博客 专注于前开发与相关技术的实战分享，涵盖Vue框架、Node.js、Serverless等，并涉及Node、Python、Linux、Docker等领域。同时，博客也分享作者的生活、音乐和旅行的热爱。',
   // 网站作者
-  Author: '.𝙃𝙖𝙣',
+  Author: 'Ayong',
   // 作者头像
   Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640',
   // 网站座右铭
@@ -343,7 +343,7 @@ export default {
     // 仅支持 SVG 且 SVG 需放在 public/assets/images/svg/ 目录下，填入文件名即可 <不需要文件后缀名>（封装了 SVG 组件 为了极致压缩 SVG）
     // 建议使用 https://tabler.io/icons 直接下载 SVG
     { text: 'Github', link: 'https://github.com/uxiaohan', icon: 'WebSite_github' },
-    { text: '韩小韩API', link: 'https://api.vvhan.com', icon: 'WebSite_api' },
+    { text: '碗豆API', link: 'https://api.vvhan.com', icon: 'WebSite_api' },
     { text: '每日热榜', link: 'https://hot.vvhan.com', icon: 'WebSite_hot' },
     { text: '骤雨重山图床', link: 'https://wp-cdn.4ce.cn', icon: 'WebSite_img' },
     { text: 'HanAnalytics', link: 'https://analytics.vvhan.com', icon: 'WebSite_analytics' },

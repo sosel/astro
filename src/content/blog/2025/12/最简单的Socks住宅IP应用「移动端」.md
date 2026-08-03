@@ -4,7 +4,7 @@ categories: 住宅IP
 tags: ['socks']
 id: "74babf40f019c305"
 date: 2025-12-04 17:57:12
-cover: "https://t.zpea.cn/i/2025/image-20251204171519386.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20251204171519386.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
@@ -26,7 +26,7 @@ cover: "https://t.zpea.cn/i/2025/image-20251204171519386.png"
 
  看图操作
 
-![image-20251204171519386](https://t.zpea.cn/i/2025/image-20251204171519386.png)
+![image-20251204171519386](https://img.mailberry.com.cn/i/2025/image-20251204171519386.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 1. 点“+”号，添加 一个节点
 2. 类型选择“socks5”
@@ -36,7 +36,7 @@ cover: "https://t.zpea.cn/i/2025/image-20251204171519386.png"
 
 **检测**
 
-![image-20251204162503670](https://t.zpea.cn/i/2025/image-20251204162503670.png)
+![image-20251204162503670](https://img.mailberry.com.cn/i/2025/image-20251204162503670.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 可以看到IP已经是美国的了
 
@@ -44,7 +44,7 @@ cover: "https://t.zpea.cn/i/2025/image-20251204171519386.png"
 
 第一步，复制可用**节点别名**
 
-![image-20251204165611479](https://t.zpea.cn/i/2025/image-20251204165611479.png)
+![image-20251204165611479](https://img.mailberry.com.cn/i/2025/image-20251204165611479.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 选择一个自己觉得速度和稳定性都不错的节点，编辑——复制别名
 
@@ -52,19 +52,19 @@ cover: "https://t.zpea.cn/i/2025/image-20251204171519386.png"
 
 第二步，创建分组
 
-![image-20251204170517331](https://t.zpea.cn/i/2025/image-20251204170517331.png)
+![image-20251204170517331](https://img.mailberry.com.cn/i/2025/image-20251204170517331.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 添加一个分组，比如我叫“住宅IP”，并把第一步拿到 **别名**填写到 “前置代理配置文件别名” （**重点**,要完全复制，有图标一起）
 
 第三步，添加sosck
 
-![image-20251204170829875](https://t.zpea.cn/i/2025/image-20251204170829875.png)
+![image-20251204170829875](https://img.mailberry.com.cn/i/2025/image-20251204170829875.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 配置文件——住宅IP分组——点“+”，选择sosck5，然后同样方式填写，测真实连接，有延时说明通了
 
 **检测**
 
-![image-20251204171126927](https://t.zpea.cn/i/2025/image-20251204171126927.png)
+![image-20251204171126927](https://img.mailberry.com.cn/i/2025/image-20251204171126927.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 IP已变，成功
 

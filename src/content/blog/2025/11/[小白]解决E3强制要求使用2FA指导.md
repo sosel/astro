@@ -4,7 +4,7 @@ categories: 教程
 tags: ["E3"]
 id: "e3 use 2fa"
 date: 2025-11-17 18:18:18
-cover: "https://t.zpea.cn/i/2025/image-20251117173553132.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20251117173553132.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -15,7 +15,7 @@ top: false
 相信上周的E3热门BUG福利，大家都已上车了吧，前文《[赶紧上车，价值2K的微软Microsoft 365 E3全局账号申请过程](https://mailberry.com.cn/2025/11/microsoft-365-e3/)》，但最近登录会发现需要强制使用二步认证，即2FA，今天就此问题写一文小白指导文章，只适合从未接触过2FA用户，老司机可以❌点了。
 :::
 
-![image-20251117173238577](https://t.zpea.cn/i/2025/image-20251117173238577.png)
+![image-20251117173238577](https://img.mailberry.com.cn/i/2025/image-20251117173238577.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 问题提示：所需操作，启用安全默认值可确保组织安全。请按照提示设置多重身份验证方法以保护帐户。
 
@@ -27,13 +27,13 @@ top: false
 
 ## 启用Authenticator
 
-![image-20251117173553132](https://t.zpea.cn/i/2025/image-20251117173553132.png)
+![image-20251117173553132](https://img.mailberry.com.cn/i/2025/image-20251117173553132.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 E3是微软的，推广安装 Microsoft Authenticator也是情理之中，如果能使用Google Play和 App Store直接搜索名字下载便可
 
 如果是安卓手机不支持Google Play，可以从这里下载 Microsoft Authenticator
 
-![image-20251117174632849](https://t.zpea.cn/i/2025/image-20251117174632849.png)
+![image-20251117174632849](https://img.mailberry.com.cn/i/2025/image-20251117174632849.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 https://apkpure.com/cn/search?q=Microsoft+Authenticator
 
@@ -44,23 +44,23 @@ https://apkpure.com/cn/search?q=Microsoft+Authenticator
 
 先登录管理员账号，根据提示来到这个页面
 
-![image-20251117175300571](https://t.zpea.cn/i/2025/image-20251117175300571.png)
+![image-20251117175300571](https://img.mailberry.com.cn/i/2025/image-20251117175300571.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 
 
 下一步后，全弹出一个二维码
 
-![image-20251117175402652](https://t.zpea.cn/i/2025/image-20251117175402652.png)
+![image-20251117175402652](https://img.mailberry.com.cn/i/2025/image-20251117175402652.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 这时候打开手机上安装的 Microsoft Authenticator 「**无法截图**，**只能文字说明**」
 
 点击右下角的二维码图标扫码添加
 
-![image-20251117175639648](https://t.zpea.cn/i/2025/image-20251117175639648.png)
+![image-20251117175639648](https://img.mailberry.com.cn/i/2025/image-20251117175639648.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 然后会网页上会让出现一个数字，同时手机上也弹出一个输入框，输入相同的数字，就能完成身份认证
 
-![image-20251117175802386](https://t.zpea.cn/i/2025/image-20251117175802386.png)
+![image-20251117175802386](https://img.mailberry.com.cn/i/2025/image-20251117175802386.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 到这里，就完成了身份认证的添加
 

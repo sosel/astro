@@ -4,7 +4,7 @@ categories: 服务器
 tags: ['DMIT']
 id: "00ceea73b31f9974"
 date: 2025-12-22 13:12:19
-cover: "https://t.zpea.cn/i/2025/image-20251222152117017.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20251222152117017.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
@@ -21,7 +21,7 @@ cover: "https://t.zpea.cn/i/2025/image-20251222152117017.png"
 
 特别推荐
 
-![image-20251222152117017](https://t.zpea.cn/i/2025/image-20251222152117017.png)
+![image-20251222152117017](https://img.mailberry.com.cn/i/2025/image-20251222152117017.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ## DMIT.LAX.EB 9929 + CMIN2
 

@@ -4,7 +4,7 @@ categories: 游戏
 tags: ["steam"]
 id: "steam-fund"
 date: 2025-09-16 21:18:18
-cover: "https://t.zpea.cn/i/2025/image-20250916204422698.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20250916204422698.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 recommend: false
 top: false
 ---
@@ -18,11 +18,11 @@ top: false
 
 今天是接到一粉丝请示代购一款**F/A-18С Early (US) 包**
 
-![image-20250916203030788](https://t.zpea.cn/i/2025/image-20250916203030788.png)
+![image-20250916203030788](https://img.mailberry.com.cn/i/2025/image-20250916203030788.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 售价95.82美元，富贵哥呀。
 
-![image-20250916203646596](https://t.zpea.cn/i/2025/image-20250916203646596.png)
+![image-20250916203646596](https://img.mailberry.com.cn/i/2025/image-20250916203646596.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 直接让我帮忙充值100美
 
@@ -30,21 +30,21 @@ top: false
 
 可供选择的充值方式：
 
-![image-20250916203246567](https://t.zpea.cn/i/2025/image-20250916203246567.png)
+![image-20250916203246567](https://img.mailberry.com.cn/i/2025/image-20250916203246567.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 支付信用卡和PayPay充值，本次使用的海外的虚拟信用卡充值的，国内卡和PP未测试，有试过的可以留言告知情况，谢谢
 
-![image-20250916203432364](https://t.zpea.cn/i/2025/image-20250916203432364.png)
+![image-20250916203432364](https://img.mailberry.com.cn/i/2025/image-20250916203432364.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 在账户明细里，点“为您的Steam钱包充值” ，
 
 **坑点一**，没注意看，差点充值到我的账号上了
 
-![image-20250916204017118](https://t.zpea.cn/i/2025/image-20250916204017118.png)
+![image-20250916204017118](https://img.mailberry.com.cn/i/2025/image-20250916204017118.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 选择相对应的金额 
 
-![image-20250916204053692](https://t.zpea.cn/i/2025/image-20250916204053692.png)
+![image-20250916204053692](https://img.mailberry.com.cn/i/2025/image-20250916204053692.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 填写卡信息，记得取消这个✅，不然会保存信用卡付款信息下次就能直接使用。
 
@@ -54,45 +54,45 @@ top: false
 
 更改先充值50美元
 
-![image-20250916204422698](https://t.zpea.cn/i/2025/image-20250916204422698.png)
+![image-20250916204422698](https://img.mailberry.com.cn/i/2025/image-20250916204422698.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 充值成功
 
 **坑点三**：来了，明明充值了，信用卡那边也已经扣费了，余额并没有增加，心理荒得很，
 
-![image-20250916204327000](https://t.zpea.cn/i/2025/image-20250916204327000.png)
+![image-20250916204327000](https://img.mailberry.com.cn/i/2025/image-20250916204327000.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 查看购买记得，发现有了，只是在Pending 中，那就放心了，只能等了
 
 回到账号中文，“为您Steam钱包充值”下面有一个告警提示，要求验证卡
 
-![image-20250916205242527](https://t.zpea.cn/i/2025/image-20250916205242527.png)
+![image-20250916205242527](https://img.mailberry.com.cn/i/2025/image-20250916205242527.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 点进去，看了一点，是不是要认证卡是我的，才能到账呢，为了不让用户等太久，先认证了
 
 **坑点四**，没想到小金额却要扣这么
 
-![image-20250916205450461](https://t.zpea.cn/i/2025/image-20250916205450461.png)
+![image-20250916205450461](https://img.mailberry.com.cn/i/2025/image-20250916205450461.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 以为只要0.0XX就能认证了，没想到要这么多，扣都扣了，只能硬着头皮继续冲了。
 
-![image-20250916205604350](https://t.zpea.cn/i/2025/image-20250916205604350.png)
+![image-20250916205604350](https://img.mailberry.com.cn/i/2025/image-20250916205604350.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 认证成功了
 
 **坑点五**，认证后，也并不是马上不到账，还是等了一会
 
-![image-20250916205738371](https://t.zpea.cn/i/2025/image-20250916205738371.png)
+![image-20250916205738371](https://img.mailberry.com.cn/i/2025/image-20250916205738371.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 终于到账了
 
 接着充值剩下的50刀
 
-![image-20250916205833417](https://t.zpea.cn/i/2025/image-20250916205833417.png)
+![image-20250916205833417](https://img.mailberry.com.cn/i/2025/image-20250916205833417.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 流程一样，有了经验后，就不再心荒了，到此完成此次充值。
 
-![image-20250916210003171](https://t.zpea.cn/i/2025/image-20250916210003171.png)
+![image-20250916210003171](https://img.mailberry.com.cn/i/2025/image-20250916210003171.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 用户也成功购买上了。
 

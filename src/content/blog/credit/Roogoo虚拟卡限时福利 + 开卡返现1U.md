@@ -4,7 +4,7 @@ categories: CreditCard
 tags: ["Roogoo","虚拟信用卡","U卡"]
 id: "roogoo credit card"
 date: 2025-09-07 16:47:40
-cover: "https://oss.mailberry.com.cn/i/2025/image-20250908104521468.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20250908104521468.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 ## 前言
@@ -29,7 +29,7 @@ cover: "https://oss.mailberry.com.cn/i/2025/image-20250908104521468.png"
 
 我自己已经用它付过 Spotify、ChatGPT Plus，支付秒过，比国内卡、礼品卡方便太多！
 
-![image-20250908103859841](https://oss.mailberry.com.cn/i/2025/image-20250908103859841.png)
+![image-20250908103859841](https://img.mailberry.com.cn/i/2025/image-20250908103859841.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ## 申请
 
@@ -43,17 +43,17 @@ cover: "https://oss.mailberry.com.cn/i/2025/image-20250908104521468.png"
 
 目前可以通过内部转账，也可以通过U入，支持网络：TRON(trc20)和SOLANA
 
-![image-20250908105528478](https://oss.mailberry.com.cn/i/2025/image-20250908105528478.png)
+![image-20250908105528478](https://img.mailberry.com.cn/i/2025/image-20250908105528478.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 ## 开卡
 
 
 
-![image-20250908104521468](https://oss.mailberry.com.cn/i/2025/image-20250908104521468.png)
+![image-20250908104521468](https://img.mailberry.com.cn/i/2025/image-20250908104521468.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 通过我邀请连接，激活卡片后返现1USD,9月30日前，免手续费，免开卡费
 
-![image-20250908104640393](https://oss.mailberry.com.cn/i/2025/image-20250908104640393.png)
+![image-20250908104640393](https://img.mailberry.com.cn/i/2025/image-20250908104640393.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 这是支持的列表
 

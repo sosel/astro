@@ -4,7 +4,7 @@ categories: 住宅IP
 tags: ['socks']
 id: "1f43d67b726f2b70"
 date: 2025-12-04 17:56:51
-cover: "https://t.zpea.cn/i/2025/image-20251202212722018.png"
+cover: "https://img.mailberry.com.cn/i/2025/image-20251202212722018.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
@@ -25,25 +25,25 @@ cover: "https://t.zpea.cn/i/2025/image-20251202212722018.png"
 
 第三步，新建环境
 
-![image-20251202211926805](https://t.zpea.cn/i/2025/image-20251202211926805.png)
+![image-20251202211926805](https://img.mailberry.com.cn/i/2025/image-20251202211926805.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 打开adspower ，点上面的新建浏览器
 
- ![image-20251202212346442](https://t.zpea.cn/i/2025/image-20251202212346442.png)
+ ![image-20251202212346442](https://img.mailberry.com.cn/i/2025/image-20251202212346442.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 名称随便给，方便自己记忆就可以了，**重点**是选择类型
 
-![image-20251202212722018](https://t.zpea.cn/i/2025/image-20251202212722018.png)
+![image-20251202212722018](https://img.mailberry.com.cn/i/2025/image-20251202212722018.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 然后下拉，完成主机：端口，账号和密码填写，再点“**检查代理**” ，提示测试成功，就可以**确认**保存了
 
 第四步，打开
 
-![image-20251202212939937](https://t.zpea.cn/i/2025/image-20251202212939937.png)
+![image-20251202212939937](https://img.mailberry.com.cn/i/2025/image-20251202212939937.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 点打开浏览器，就能正常使用了（首次可能还会提示SunBrowser未安装，根据提示安装就可以了）
 
-![image-20251202213122820](https://t.zpea.cn/i/2025/image-20251202213122820.png)
+![image-20251202213122820](https://img.mailberry.com.cn/i/2025/image-20251202213122820.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 可以看到这个浏览器里的IP已经是套上socks的IP了
 

@@ -93,7 +93,7 @@ top: false
 
    这样设置后，root用户只能通过密钥认证登录，无法通过密码登录。
 
-   ![image-20250915163717443](https://t.zpea.cn/i/2025/image-20250915163717443.png)
+   ![image-20250915163717443](https://img.mailberry.com.cn/i/2025/image-20250915163717443.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
    测试就算使用正确的root密码也没办法登录了，这样就不怕暴力破解了。
 

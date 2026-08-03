@@ -4,7 +4,7 @@ categories: Ai
 tags: ['Claude']
 id: "ccc80f95e8abdc8e"
 date: 2026-01-07 17:59:01
-cover: "https://t.zpea.cn/i/2026/image-20260107173835540.png"
+cover: "https://img.mailberry.com.cn/i/2026/image-20260107173835540.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
@@ -18,19 +18,19 @@ cover: "https://t.zpea.cn/i/2026/image-20260107173835540.png"
 
 第一步，直接丢旧代码给claude
 
-![image-20260107172626833](https://t.zpea.cn/i/2026/image-20260107172626833_1.png)
+![image-20260107172626833](https://img.mailberry.com.cn/i/2026/image-20260107172626833.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 分析后，再引出我的需求
 
 第二步，提需求
 
-![image-20260107172749982](https://t.zpea.cn/i/2026/image-20260107172749982.png)
+![image-20260107172749982](https://img.mailberry.com.cn/i/2026/image-20260107172749982.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 可以直接验证代码可用性
 
 第三步，执行验证
 
-![image-20260107172905464](https://t.zpea.cn/i/2026/image-20260107172905464.png)
+![image-20260107172905464](https://img.mailberry.com.cn/i/2026/image-20260107172905464.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 把错误丢给它
 
@@ -40,7 +40,7 @@ cover: "https://t.zpea.cn/i/2026/image-20260107173835540.png"
 
 提供了两个思路
 
-![image-20260107173058911](https://t.zpea.cn/i/2026/image-20260107173058911.png)
+![image-20260107173058911](https://img.mailberry.com.cn/i/2026/image-20260107173058911.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 最张我是在浏览器抓取真实请求实现的
 
@@ -50,31 +50,31 @@ cover: "https://t.zpea.cn/i/2026/image-20260107173835540.png"
 
 第一次，我丢了个document文档给它
 
-![image-20260107173427255](https://t.zpea.cn/i/2026/image-20260107173427255.png)
+![image-20260107173427255](https://img.mailberry.com.cn/i/2026/image-20260107173427255.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 第二次，不知道要看哪个文件
 
-![image-20260107173543769](https://t.zpea.cn/i/2026/image-20260107173543769.png)
+![image-20260107173543769](https://img.mailberry.com.cn/i/2026/image-20260107173543769.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 第三次，重新指导我
 
-![image-20260107173728954](https://t.zpea.cn/i/2026/image-20260107173728954.png)
+![image-20260107173728954](https://img.mailberry.com.cn/i/2026/image-20260107173728954.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 原来重点是要看Fetch/XHR
 
 第四次，找到重要数据
 
-![image-20260107173835540](https://t.zpea.cn/i/2026/image-20260107173835540.png)
+![image-20260107173835540](https://img.mailberry.com.cn/i/2026/image-20260107173835540.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 原来是要查看“customer portal”的请示
 
 第五次，直接给出可用的代码
 
-![image-20260107174214971](https://t.zpea.cn/i/2026/image-20260107174214971.png)
+![image-20260107174214971](https://img.mailberry.com.cn/i/2026/image-20260107174214971.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 直接提供了可用的代码
 
-![image-20260107174508931](https://t.zpea.cn/i/2026/image-20260107174508931.png)
+![image-20260107174508931](https://img.mailberry.com.cn/i/2026/image-20260107174508931.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 成功拿到付款管理地址
 

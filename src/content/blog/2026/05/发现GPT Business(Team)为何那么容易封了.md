@@ -4,7 +4,7 @@ categories: Ai
 tags: ['team']
 id: "42592afc261e7126"
 date: 2026-05-06 17:46:07
-cover: "https://t.zpea.cn/i/2026/image-20260430115543784.png"
+cover: "https://img.mailberry.com.cn/i/2026/image-20260430115543784.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff"
 ---
 
 :::note
@@ -22,19 +22,19 @@ cover: "https://t.zpea.cn/i/2026/image-20260430115543784.png"
 
 一
 
-![image-20260430115543784](https://t.zpea.cn/i/2026/image-20260430115543784.png)
+![image-20260430115543784](https://img.mailberry.com.cn/i/2026/image-20260430115543784.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 二
 
-![image-20260430115557496](https://t.zpea.cn/i/2026/image-20260430115557496.png)
+![image-20260430115557496](https://img.mailberry.com.cn/i/2026/image-20260430115557496.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 也是取消这两台车的订阅时候，发现了问题所在
 
-![image-20260506172643619](https://t.zpea.cn/i/2026/image-20260506172643619.png)
+![image-20260506172643619](https://img.mailberry.com.cn/i/2026/image-20260506172643619.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 除了订阅时候验证扣了一笔费用外，过几天，还会再扣一笔费用
 
-![image-20260506172822279](https://t.zpea.cn/i/2026/image-20260506172822279.png)
+![image-20260506172822279](https://img.mailberry.com.cn/i/2026/image-20260506172822279.webp?x-oss-process=image/watermark,text_WnBlYS5jbg==,type_ZmFuZ3poZW5naGVpdGk,size_18,shadow_50,t_70,g_se,x_10,y_10,color_ffffff)
 
 另外一车同样的情况，而且是不定时间的，这个隔了两天
 
